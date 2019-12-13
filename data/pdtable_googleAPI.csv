@@ -1,0 +1,948 @@
+,company,job_location_googleAPI,BLS_region,CPI_value
+0,Verizon,"Alpharetta, Fulton County, Georgia, United States",South Atlantic ,104.365
+1,Zions Bancorporation,"Salt Lake City, Salt Lake County, Utah, United States",Mountain,106.417
+2,Cengage,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+3,Community Care Network,"Rutland, Rutland County, Vermont, United States, 05701",New England ,104.079
+4,Hamilton Porter LLC,"Palisades Park, Bergen County, New Jersey, United States, 07650",Middle Atlantic ,103.518
+5,Freed Maxick,United States,,
+6,Liberty Mutual Insurance,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+7,Jordan's Furniture,"East Taunton, Taunton, Bristol County, Massachusetts, United States, 02718",New England ,104.079
+8,Advantecs,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+9,Society Insurance,"Fond du Lac, Fond du Lac County, Wisconsin, United States",East North Central,103.804
+10,IFG Companies,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+11,Audible,"Newark, Essex County, New Jersey, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+12,Clinica Family Health,"Lafayette, Boulder County, Colorado, United States",Mountain,106.417
+13,Walmart eCommerce,"San Bruno, San Mateo County, California, United States",Pacific,106.238
+14,Walmart eCommerce,"Hoboken, Hudson County, New Jersey, United States",Middle Atlantic ,103.518
+15,Genscape,"Louisville, Jefferson County, Kentucky, United States",East South Central,102.457
+16,Walmart eCommerce,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+17,Presbyterian Healthcare Services,"Albuquerque, Bernalillo County, New Mexico, United States",Mountain,106.417
+18,Walmart eCommerce,"San Bruno, San Mateo County, California, United States",Pacific,106.238
+19,Bull Moose Tube,"St. Louis, Missouri, United States","St. Louis, MO-IL",231.653
+20,Verizon,"Basking Ridge, Bernards, Somerset County, New Jersey, United States, 07920",Middle Atlantic ,103.518
+21,Affinity Solutions,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+22,Martin's Famous Pastry Shoppe,"Chambersburg, Franklin County, Pennsylvania, United States",Middle Atlantic ,103.518
+23,Cimarex Energy,"Tulsa, Tulsa County, Oklahoma, United States",West South Central,103.193
+24,Zimmerman Advertising,"Fort Lauderdale, Broward County, Florida, United States","Miami-Fort Lauderdale-West Palm Beach, FL",271.381
+25,ManTech,"Reston, Hunter Mill, Fairfax County, Virginia, United States",South Atlantic ,104.365
+26,BombBomb,"Colorado Springs, El Paso County, Colorado, United States",Mountain,106.417
+27,Mars,"New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+28,Sandhills Global,"Lincoln, Lancaster County, Nebraska, United States",West North Central,103.704
+29,"ExtraHop Networks, Inc.","Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+30,Walmart eCommerce,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+31,Cimarex Energy,"Tulsa, Tulsa County, Oklahoma, United States",West South Central,103.193
+32,BOK Financial,"Tulsa, Tulsa County, Oklahoma, United States",West South Central,103.193
+33,"2nd Watch, Inc.","Liberty Lake, Spokane County, Washington, United States",Pacific,106.238
+34,Presbyterian Healthcare Services,"Albuquerque, Bernalillo County, New Mexico, United States",Mountain,106.417
+35,Liberty Mutual Insurance,"Dover, Strafford County, New Hampshire, United States",New England ,104.079
+36,ManTech,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+37,Riverside Research Institute,"Wright-Patterson Air Force Base, Bath Township, Greene County, Ohio, United States",East North Central,103.804
+38,h2o.ai,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+39,Briq,"Santa Barbara, Santa Barbara County, California, United States",Pacific,106.238
+40,Wells Fargo Bank,"Portland, Multnomah County, Oregon, United States",Pacific,106.238
+41,Dematic,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+42,TransUnion,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+43,Los Alamos National Laboratory,"Los Alamos, Los Alamos County, New Mexico, United States, 87544",Mountain,106.417
+44,National Interstate,"Richfield, Richfield Township, Summit County, Ohio, United States",East North Central,103.804
+45,Ascension - The Resource Group,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+46,"Fullpower Technologies, Inc.","Santa Cruz, Santa Cruz County, California, United States",Pacific,106.238
+47,Elevate Credit,"Addison, Dallas County, Texas, United States",West South Central,103.193
+48,W3Global,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+49,iSeatz,"New Orleans, Orleans Parish, Louisiana, United States",West South Central,103.193
+50,Ecolab,"Naperville, Naperville Park District, DuPage County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+51,OGE Energy Corp.,"Oklahoma City, Oklahoma County, Oklahoma, United States",West South Central,103.193
+52,Robin Powered,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+53,Corbins Electric,"Phoenix, Maricopa County, Arizona, United States","Phoenix-Mesa-Scottsdale, AZ",145.833
+54,EBSCO Information Services,"Ipswich, Ipswich, Essex County, Massachusetts, United States",New England ,104.079
+55,Segra,"Charlotte, Charlotte, Mecklenburg County, North Carolina, United States",South Atlantic ,104.365
+56,TransUnion,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+57,Stratagem Group,"Colorado Springs, El Paso County, Colorado, United States",Mountain,106.417
+58,Software Engineering Institute,"Pittsburgh, Allegheny County, Pennsylvania, United States",Middle Atlantic ,103.518
+59,Arrow Electronics,"Centennial, Arapahoe County, Colorado, United States",Mountain,106.417
+60,Walmart eCommerce,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+61,Zimmerman Advertising,"Fort Lauderdale, Broward County, Florida, United States","Miami-Fort Lauderdale-West Palm Beach, FL",271.381
+62,ManTech,"Reston, Hunter Mill, Fairfax County, Virginia, United States",South Atlantic ,104.365
+63,Driscoll's,"Watsonville, Santa Cruz County, California, United States",Pacific,106.238
+64,Travelers,"Hartford, Hartford County, Connecticut, United States",New England ,104.079
+65,Opinion Dynamics,"San Diego, San Diego County, California, United States","San Diego-Carlsbad, CA",301.033
+66,Capital One,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+67,Decisive Analytics,"Huntsville, Madison County, Alabama, United States",East South Central,102.457
+68,Peraton,"Chantilly, Sully, Fairfax County, Virginia, United States",South Atlantic ,104.365
+69,Wells Fargo,"West Des Moines, Bloomfield, Polk County, Iowa, United States",West North Central,103.704
+70,Lancer Insurance,"Long Beach, Hempstead, Nassau County, New York, United States","Los Angeles-Long Beach-Anaheim, CA",278.075
+71,Integral Ad Science,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+72,Los Alamos National Laboratory,"Los Alamos, Los Alamos County, New Mexico, United States, 87544",Mountain,106.417
+73,Master Electronics,"Phoenix, Maricopa County, Arizona, United States","Phoenix-Mesa-Scottsdale, AZ",145.833
+74,Fisher Investments,"Camas, Clark County, Washington, United States",Pacific,106.238
+75,Novartis,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+76,Power Integrations,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+77,Karyopharm Therapeutics Inc.,"Newton, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+78,Enterprise,"St. Louis, Missouri, United States","St. Louis, MO-IL",231.653
+79,Altitude Networks,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+80,Walmart eCommerce,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+81,Enterprise Products Company,"Beaumont, Jefferson County, Texas, United States",West South Central,103.193
+82,Meltwater,"Raleigh, Wake County, North Carolina, United States",South Atlantic ,104.365
+83,Vyaire Medical,"Mettawa, Lake County, Illinois, United States",East North Central,103.804
+84,Tradeweb Markets LLC,"Jersey City, Hudson County, New Jersey, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+85,Northrop Grumman,"Annapolis Junction, Savage, Anne Arundel County, Maryland, United States",South Atlantic ,104.365
+86,PennyMac,"Agoura Hills, Los Angeles County, California, United States",Pacific,106.238
+87,TD Ameritrade,"Southlake, Tarrant County, Texas, United States, 76092",West South Central,103.193
+88,Arcadia.io,"Burlington, Middlesex County, Massachusetts, United States",New England ,104.079
+89,Teza Technologies,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+90,Takeda Pharmaceuticals,"Lexington, Middlesex County, Massachusetts, United States",New England ,104.079
+91,Q-Centrix,"Portsmouth, Kittery, Rockingham County, New Hampshire, United States, 03801",New England ,104.079
+92,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+93,Mars,"New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+94,"ExtraHop Networks, Inc.","Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+95,SageGlass,"Faribault, Rice County, Minnesota, United States, 55021",West North Central,103.704
+96,DOCOMO Innovations,"Palo Alto, Santa Clara County, California, United States",Pacific,106.238
+97,Dematic,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+98,CardinalCommerce,"Cleveland, Cuyahoga County, Ohio, United States",East North Central,103.804
+99,Liberty Mutual Insurance,"Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+100,NCSOFT,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+101,Novetta,"Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+102,Novetta,"Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+103,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+104,Unitus Community Credit Union,"Portland, Multnomah County, Oregon, United States",Pacific,106.238
+105,GitLab,"Omaha, Chicago, Douglas County, Nebraska, United States",West North Central,103.704
+106,Novartis,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+107,Los Alamos National Laboratory,"Los Alamos, Los Alamos County, New Mexico, United States, 87544",Mountain,106.417
+108,Northrop Grumman,"Rolling Meadows, Cook County, Illinois, United States",East North Central,103.804
+109,"Atara Biotherapeutics, Inc.","Thousand Oaks, Ventura County, California, United States",Pacific,106.238
+110,CopperPoint Insurance Companies,"Phoenix, Maricopa County, Arizona, United States","Phoenix-Mesa-Scottsdale, AZ",145.833
+111,TZ Insurance Solutions,"Raleigh, Wake County, North Carolina, United States",South Atlantic ,104.365
+112,Northrop Grumman,"McLean, Dranesville, Fairfax County, Virginia, United States",South Atlantic ,104.365
+113,Liberty Mutual Insurance,"Dover, Strafford County, New Hampshire, United States",New England ,104.079
+114,Enterprise Holdings,"St. Louis, Missouri, United States","St. Louis, MO-IL",231.653
+115,C2G Partners,"Columbia, Howard County, Maryland, United States","Baltimore-Columbia-Towson, MD",257.616
+116,Verizon,"Alpharetta, Fulton County, Georgia, United States",South Atlantic ,104.365
+117,Bayview Asset Management,"Coral Gables, Miami-Dade County, Florida, United States",South Atlantic ,104.365
+118,Novetta,"Tampa, Hillsborough County, Florida, United States","Tampa-St. Petersburg-Clearwater, FL",229.219
+119,Zions Bancorporation,"Salt Lake City, Salt Lake County, Utah, United States",Mountain,106.417
+120,Press Ganey,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+121,Kforce,"Salt Lake City, Salt Lake County, Utah, United States",Mountain,106.417
+122,Avlino,"New Jersey, United States",Middle Atlantic ,103.518
+123,ProHealth Care (WI),"Waukesha, Waukesha, Waukesha County, Wisconsin, United States",East North Central,103.804
+124,IAT Insurance Group,"Raleigh, Wake County, North Carolina, United States",South Atlantic ,104.365
+125,Riverside Research Institute,"Wright-Patterson Air Force Base, Bath Township, Greene County, Ohio, United States",East North Central,103.804
+126,Walmart eCommerce,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+127,UFG Insurance,"Cedar Rapids, Linn County, Iowa, United States",West North Central,103.704
+128,JJR Solutions,"Dayton, Jefferson Township, Montgomery County, Ohio, United States",East North Central,103.804
+129,Callisto Media,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+130,Master Electronics,"Phoenix, Maricopa County, Arizona, United States","Phoenix-Mesa-Scottsdale, AZ",145.833
+131,Specialized Bicycle,"Morgan Hill, Santa Clara County, California, United States",Pacific,106.238
+132,Woodruff Sawyer,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+133,Liberty Mutual Insurance,"Dover, Strafford County, New Hampshire, United States",New England ,104.079
+134,Los Alamos National Laboratory,"Los Alamos, Los Alamos County, New Mexico, United States, 87544",Mountain,106.417
+135,Age of Learning,"Glendale, Los Angeles County, California, United States",Pacific,106.238
+136,Los Alamos National Laboratory,"Los Alamos, Los Alamos County, New Mexico, United States, 87544",Mountain,106.417
+137,Peraton,"Chantilly, Sully, Fairfax County, Virginia, United States",South Atlantic ,104.365
+138,Strategic Financial Solutions,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+139,Hartford HealthCare Corp.,"Farmington, Hartford County, Connecticut, United States",New England ,104.079
+140,Citizens Property Insurance,"Jacksonville, Duval County, Florida, United States",South Atlantic ,104.365
+141,OTR Capital,"Roswell, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+142,TrueAccord,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+143,Enterprise,"St. Louis, Missouri, United States","St. Louis, MO-IL",231.653
+144,Billy Casper Golf,"Reston, Hunter Mill, Fairfax County, Virginia, United States",South Atlantic ,104.365
+145,Coffee Meets Bagel,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+146,EF Educational Tours,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+147,Ingersoll-Rand,"Davidson, Deweese, Mecklenburg County, North Carolina, United States",South Atlantic ,104.365
+148,ClearEdge IT Solutions,"Annapolis Junction, Savage, Anne Arundel County, Maryland, United States",South Atlantic ,104.365
+149,Tapjoy,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+150,ManTech,"Suitland, Suitland-Silver Hill, 6, Spauldings, Prince George's County, Maryland, United States, 20746",South Atlantic ,104.365
+151,Walmart eCommerce,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+152,Frontier Technology Inc.,"Norfolk, Virginia, United States",South Atlantic ,104.365
+153,ManTech,"Alexandria, Mason, Virginia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+154,The Buffalo Group,"Fort Belvoir, Mount Vernon, Fairfax County, Virginia, United States",South Atlantic ,104.365
+155,HouseCanary,"San Antonio, Bexar County, Texas, United States",West South Central,103.193
+156,My Job Tank,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+157,Walmart eCommerce,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+158,Dematic,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+159,Regulatory DataCorp,"King of Prussia, Upper Merion Township, Montgomery County, Pennsylvania, United States",Middle Atlantic ,103.518
+160,My Job Tank,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+161,Novetta,"Reston, Hunter Mill, Fairfax County, Virginia, United States",South Atlantic ,104.365
+162,Equity Methods,"Scottsdale, Maricopa County, Arizona, United States","Phoenix-Mesa-Scottsdale, AZ",145.833
+163,Novetta,"Fort Belvoir, Mount Vernon, Fairfax County, Virginia, United States",South Atlantic ,104.365
+164,Advance America,"Spartanburg, Spartanburg County, South Carolina, United States",South Atlantic ,104.365
+165,NAVIS,"Portland, Multnomah County, Oregon, United States",Pacific,106.238
+166,Translate Bio,"Lexington, Middlesex County, Massachusetts, United States",New England ,104.079
+167,Better.com,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+168,S&P Global Ratings,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+169,Dailymotion,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+170,Shutterfly,"Redwood City, San Mateo County, California, United States",Pacific,106.238
+171,Oden Technologies,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+172,Juvo,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+173,Marin Software,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+174,Pivotal Software,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+175,Northrop Grumman,"Annapolis Junction, Savage, Anne Arundel County, Maryland, United States",South Atlantic ,104.365
+176,MITRE,"McLean, Dranesville, Fairfax County, Virginia, United States",South Atlantic ,104.365
+177,Covenant Eyes,"Owosso, Shiawassee County, Michigan, United States, 48867",East North Central,103.804
+178,Plymouth Rock Assurance,"Woodbridge Township, Middlesex County, New Jersey, United States",Middle Atlantic ,103.518
+179,ATPCO,"Dulles, Dulles, Loudoun County, Virginia, United States",South Atlantic ,104.365
+180,C3.ai,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+181,Qualys,"Foster City, San Mateo County, California, United States",Pacific,106.238
+182,Zions Bank,"Salt Lake City, Salt Lake County, Utah, United States",Mountain,106.417
+183,Just Auto Insurance,"Los Angeles, Los Angeles County, California, United States","Los Angeles-Long Beach-Anaheim, CA",278.075
+184,Amobee,"Baltimore, Maryland, United States","Baltimore-Columbia-Towson, MD",257.616
+185,VMLY&R,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+186,Novetta,"Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+187,Perfect World Entertainment,"Redwood City, San Mateo County, California, United States",Pacific,106.238
+188,NetImpact Strategies,"Vienna, Hunter Mill, Fairfax County, Virginia, United States, 22180",South Atlantic ,104.365
+189,TransUnion,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+190,OGE Energy Corp.,"Oklahoma City, Oklahoma County, Oklahoma, United States",West South Central,103.193
+191,LendingHome,"Pittsburgh, Allegheny County, Pennsylvania, United States",Middle Atlantic ,103.518
+192,DTN,"West Lafayette, Wabash Township, Tippecanoe County, Indiana, United States",East North Central,103.804
+193,7Park Data,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+194,Presbyterian Healthcare Services,"Albuquerque, Bernalillo County, New Mexico, United States",Mountain,106.417
+195,ADP,"Alpharetta, Fulton County, Georgia, United States",South Atlantic ,104.365
+196,Genomic Health,"Redwood City, San Mateo County, California, United States",Pacific,106.238
+197,ADP,"Florham Park, Morris County, New Jersey, United States",Middle Atlantic ,103.518
+198,Loma Linda University Medical Center,"Loma Linda, San Bernardino County, California, United States",Pacific,106.238
+199,Stratagem Group,"Valley Forge, Schuylkill Township, Chester County, Pennsylvania, United States",Middle Atlantic ,103.518
+200,ACI Worldwide,"Waltham, Middlesex County, Massachusetts, United States",New England ,104.079
+201,PayPal,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+202,Optoro,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+203,PayPal,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+204,PayPal,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+205,Memorial Health System,"Springfield, Sangamon County, Illinois, United States",East North Central,103.804
+206,"Expedition Technology, Inc.","Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+207,Qualys,"Foster City, San Mateo County, California, United States",Pacific,106.238
+208,MTSI,"Springfield, Lee, Fairfax County, Virginia, United States",South Atlantic ,104.365
+209,Earnest,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+210,ShopKeep,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+211,Brighthouse Financial,"Charlotte, Charlotte, Mecklenburg County, North Carolina, United States",South Atlantic ,104.365
+212,Guild Education,"Denver, Denver County, Colorado, United States","Denver-Aurora-Lakewood, CO",270.974
+213,KnowBe4,"Clearwater, Pinellas County, Florida, United States","Tampa-St. Petersburg-Clearwater, FL",229.219
+214,Purchasing Power,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+215,Foundation Medicine,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+216,Blink Health,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+217,Cadent,"Philadelphia, Philadelphia County, Pennsylvania, United States","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",257.966
+218,QuantumBlack,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+219,Kareo Inc,"San Diego, San Diego County, California, United States","San Diego-Carlsbad, CA",301.033
+220,Rally Health,"Minneapolis, Hennepin County, Minnesota, United States","Minneapolis-St.Paul-Bloomington, MN-WI",251.416
+221,OGE Energy Corp.,"Oklahoma City, Oklahoma County, Oklahoma, United States",West South Central,103.193
+222,TransUnion,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+223,Enterprise Holdings,"St. Louis, Missouri, United States","St. Louis, MO-IL",231.653
+224,Grid Dynamics,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+225,Alignment Healthcare,"Orange, Orange County, California, United States",Pacific,106.238
+226,Alignment Healthcare,"Orange, Orange County, California, United States",Pacific,106.238
+227,Southern California Edison,"Pomona, Los Angeles County, California, United States",Pacific,106.238
+231,Purchasing Power,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+232,Pivotal Software,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+233,"Software Resources, Inc.","Orlando, Orange County, Florida, United States",South Atlantic ,104.365
+234,Science 37,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+235,Nurx,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+236,"Guidewire Software, Inc.","San Mateo, San Mateo County, California, United States",Pacific,106.238
+237,7Park Data,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+238,Maxar Technologies,"Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+239,Stripe,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+240,Silicon Valley Bank,"Tempe, Maricopa County, Arizona, United States",Mountain,106.417
+241,Snowflake,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+242,MatrixCare,"Bloomington, Fort Snelling Unorganized Territory, Hennepin County, Minnesota, United States","Minneapolis-St.Paul-Bloomington, MN-WI",251.416
+243,Quartet Health,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+244,Revel IT,"Columbus, Franklin County, Ohio, United States",East North Central,103.804
+245,Systems & Technology Research,"Woburn, Middlesex County, Massachusetts, United States",New England ,104.079
+246,DICK'S Sporting Goods - Corporate,"Coraopolis, Allegheny County, Pennsylvania, United States, 15108",Middle Atlantic ,103.518
+247,Adavance2,"Los Angeles, Los Angeles County, California, United States","Los Angeles-Long Beach-Anaheim, CA",278.075
+248,Northwest FCU,"Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+249,Pactera,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+250,Attune,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+251,Johns Hopkins University Applied Physics Laboratory,"Laurel, 10, Laurel, Prince George's County, Maryland, United States",South Atlantic ,104.365
+252,Driscoll's,"Watsonville, Santa Cruz County, California, United States",Pacific,106.238
+253,Enterprise,"St. Louis, Missouri, United States","St. Louis, MO-IL",231.653
+254,Plymouth Rock Assurance,"Woodbridge Township, Middlesex County, New Jersey, United States",Middle Atlantic ,103.518
+255,Northrop Grumman,"Annapolis Junction, Savage, Anne Arundel County, Maryland, United States",South Atlantic ,104.365
+256,Covenant Eyes,"Owosso, Shiawassee County, Michigan, United States, 48867",East North Central,103.804
+257,AppleTree Early Learning Public Charter School,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+258,C3.ai,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+259,The Church of Jesus Christ of Latter-day Saints,"Riverton, Salt Lake County, Utah, United States",Mountain,106.417
+260,Zions Bank,"Salt Lake City, Salt Lake County, Utah, United States",Mountain,106.417
+261,SullivanCotter,"Minneapolis, Hennepin County, Minnesota, United States","Minneapolis-St.Paul-Bloomington, MN-WI",251.416
+262,Qualys,"Foster City, San Mateo County, California, United States",Pacific,106.238
+263,Los Alamos National Laboratory,"Los Alamos, Los Alamos County, New Mexico, United States, 87544",Mountain,106.417
+264,CHRISTUS Health,"Irving, Dallas County, Texas, United States",West South Central,103.193
+265,Clickfox,"Greenwood Village, Arapahoe County, Colorado, United States",Mountain,106.417
+266,Novetta,"Tampa, Hillsborough County, Florida, United States","Tampa-St. Petersburg-Clearwater, FL",229.219
+267,Pantheon,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+268,PulsePoint,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+269,Elanco,"Greenfield, Center Township, Hancock County, Indiana, United States, 46140",East North Central,103.804
+270,Cofense,"Leesburg, Loudoun County, Virginia, United States",South Atlantic ,104.365
+271,Avalere Health,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+272,Amobee,"Baltimore, Maryland, United States","Baltimore-Columbia-Towson, MD",257.616
+273,Corporate Technologies Inc.,"Burlington, Middlesex County, Massachusetts, United States",New England ,104.079
+274,Travelers,"Hartford, Hartford County, Connecticut, United States",New England ,104.079
+275,Just Auto Insurance,"Los Angeles, Los Angeles County, California, United States","Los Angeles-Long Beach-Anaheim, CA",278.075
+276,Novetta,"Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+277,The Church of Jesus Christ of Latter-day Saints,"Riverton, Salt Lake County, Utah, United States",Mountain,106.417
+278,TGS Management Company,"Irvine, Orange County, California, United States",Pacific,106.238
+279,Trident Technologies,"O'Fallon, St. Clair County, Illinois, United States",East North Central,103.804
+280,The Church of Jesus Christ of Latter-day Saints,"Riverton, Salt Lake County, Utah, United States",Mountain,106.417
+281,VMLY&R,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+282,NetImpact Strategies,"Vienna, Hunter Mill, Fairfax County, Virginia, United States, 22180",South Atlantic ,104.365
+283,Perfect World Entertainment,"Redwood City, San Mateo County, California, United States",Pacific,106.238
+284,Travelers,"Hartford, Hartford County, Connecticut, United States",New England ,104.079
+285,Novartis,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+286,LendingHome,"Pittsburgh, Allegheny County, Pennsylvania, United States",Middle Atlantic ,103.518
+287,Target,"Minneapolis, Hennepin County, Minnesota, United States","Minneapolis-St.Paul-Bloomington, MN-WI",251.416
+288,Pindrop,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+289,Rincon Research Corporation,"Melbourne, Brevard County, Florida, United States",South Atlantic ,104.365
+290,Frontier Technology Inc.,"Beverly, Essex County, Massachusetts, United States",New England ,104.079
+291,DTN,"West Lafayette, Wabash Township, Tippecanoe County, Indiana, United States",East North Central,103.804
+292,Presbyterian Healthcare Services,"Albuquerque, Bernalillo County, New Mexico, United States",Mountain,106.417
+293,Clarity Insights,United States,,
+294,Ascension - The Resource Group,"Nashville, Davidson County, Tennessee, United States",East South Central,102.457
+295,7Park Data,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+296,Johns Hopkins University Applied Physics Laboratory,"Laurel, 10, Laurel, Prince George's County, Maryland, United States",South Atlantic ,104.365
+297,Clearlink,"Magna, Salt Lake County, Utah, United States",Mountain,106.417
+298,Genomic Health,"Redwood City, San Mateo County, California, United States",Pacific,106.238
+299,ADP,"Alpharetta, Fulton County, Georgia, United States",South Atlantic ,104.365
+300,O'Reilly Automotive,"Springfield, Springfield Township, Greene County, Missouri, United States",West North Central,103.704
+301,Traditional Medicinals,"Rohnert Park, Sonoma County, California, United States",Pacific,106.238
+302,SpringML,"Indianapolis, Marion County, Indiana, United States",East North Central,103.804
+303,Loma Linda University Medical Center,"Loma Linda, San Bernardino County, California, United States",Pacific,106.238
+304,The Church of Jesus Christ of Latter-day Saints,"Riverton, Salt Lake County, Utah, United States",Mountain,106.417
+305,Live! Casino·Hotel,"Hanover, Elkridge, Howard County, Maryland, United States, 21076",South Atlantic ,104.365
+306,ADP,"Florham Park, Morris County, New Jersey, United States",Middle Atlantic ,103.518
+307,Stratagem Group,"Valley Forge, Schuylkill Township, Chester County, Pennsylvania, United States",Middle Atlantic ,103.518
+308,ACI Worldwide,"Waltham, Middlesex County, Massachusetts, United States",New England ,104.079
+309,Mission Essential,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+310,PayPal,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+311,Bill.com,"Palo Alto, Santa Clara County, California, United States",Pacific,106.238
+312,Esurance,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+313,The Church of Jesus Christ of Latter-day Saints,"Riverton, Salt Lake County, Utah, United States",Mountain,106.417
+314,PayPal,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+315,Optoro,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+316,Peraton,"Chantilly, Sully, Fairfax County, Virginia, United States",South Atlantic ,104.365
+317,Q-Centrix,"Portsmouth, Kittery, Rockingham County, New Hampshire, United States, 03801",New England ,104.079
+318,PayPal,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+319,PayPal,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+320,PayPal,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+321,CardinalCommerce,"Cleveland, Cuyahoga County, Ohio, United States",East North Central,103.804
+322,Reliant Funding,"San Diego, San Diego County, California, United States","San Diego-Carlsbad, CA",301.033
+323,Elysium Health,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+324,Tradeweb Markets LLC,"Jersey City, Hudson County, New Jersey, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+325,Memorial Health System,"Springfield, Sangamon County, Illinois, United States",East North Central,103.804
+326,Novetta,"Springfield, Lee, Fairfax County, Virginia, United States",South Atlantic ,104.365
+327,Riverside Research Institute,"Wright-Patterson Air Force Base, Bath Township, Greene County, Ohio, United States",East North Central,103.804
+328,Cognite,"Houston, Harris County, Texas, United States","Houston-The Woodlands-Sugar Land, TX",230.041
+329,"Expedition Technology, Inc.","Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+330,MTSI,"Springfield, Lee, Fairfax County, Virginia, United States",South Atlantic ,104.365
+331,Qualys,"Foster City, San Mateo County, California, United States",Pacific,106.238
+332,Merchant e-Solutions,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+333,Shape Security,"Santa Clara, Santa Clara County, California, United States",Pacific,106.238
+334,Trident Technologies,"Scott Air Force Base, Shiloh Valley Township, St. Clair County, Illinois, United States",East North Central,103.804
+335,Travelers,"Hartford, Hartford County, Connecticut, United States",New England ,104.079
+336,CAQH,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+337,Earnest,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+338,Rocketrip,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+339,ShopKeep,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+340,Hanover Research,"Arlington, Mason, Arlington County, Virginia, United States","Dallas-Fort Worth-Arlington, TX",239.815
+341,Business Wire,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+342,Guild Education,"Denver, Denver County, Colorado, United States","Denver-Aurora-Lakewood, CO",270.974
+343,Dassault Systemes,"Waltham, Middlesex County, Massachusetts, United States",New England ,104.079
+344,Brighthouse Financial,"Charlotte, Charlotte, Mecklenburg County, North Carolina, United States",South Atlantic ,104.365
+345,KnowBe4,"Clearwater, Pinellas County, Florida, United States","Tampa-St. Petersburg-Clearwater, FL",229.219
+346,Novartis,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+347,Neudesic,"Philadelphia, Philadelphia County, Pennsylvania, United States","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",257.966
+348,Tradeweb Markets LLC,"Jersey City, Hudson County, New Jersey, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+349,Northrop Grumman,"Annapolis Junction, Savage, Anne Arundel County, Maryland, United States",South Atlantic ,104.365
+350,"Keen360, Inc.","Summit, Union County, New Jersey, United States",Middle Atlantic ,103.518
+351,Daugherty Business Solutions,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+352,Purchasing Power,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+353,Wealthfront,"Palo Alto, Santa Clara County, California, United States",Pacific,106.238
+354,Foundation Medicine,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+355,Novartis,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+356,Veritone,"San Diego, San Diego County, California, United States","San Diego-Carlsbad, CA",301.033
+357,Capital One,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+358,Blink Health,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+359,Pharmacyclics,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+360,QuantumBlack,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+361,Cadent,"Philadelphia, Philadelphia County, Pennsylvania, United States","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",257.966
+362,SharpSpring,"Gainesville, Alachua County, Florida, United States",South Atlantic ,104.365
+363,Universal Service Administrative Company,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+364,Rally Health,"Minneapolis, Hennepin County, Minnesota, United States","Minneapolis-St.Paul-Bloomington, MN-WI",251.416
+365,AWeber,"Chalfont, Bucks County, Pennsylvania, United States, 18914",Middle Atlantic ,103.518
+366,Kareo Inc,"San Diego, San Diego County, California, United States","San Diego-Carlsbad, CA",301.033
+367,MetroStar Systems,"Rockville, 4, Montgomery County, Maryland, United States",South Atlantic ,104.365
+368,ECRI Institute,"Plymouth Meeting, Plymouth Township, Montgomery County, Pennsylvania, United States",Middle Atlantic ,103.518
+369,Grid Dynamics,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+370,ITHAKA,"Ann Arbor, Washtenaw County, Michigan, United States",East North Central,103.804
+371,Eli Lilly and Company,"Indianapolis, Marion County, Indiana, United States",East North Central,103.804
+372,Enterprise Holdings,"St. Louis, Missouri, United States","St. Louis, MO-IL",231.653
+373,Gilead Sciences,"Foster City, San Mateo County, California, United States",Pacific,106.238
+374,Novartis,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+375,Presbyterian Healthcare Services,"Milwaukee, Milwaukee County, Wisconsin, United States",East North Central,103.804
+376,Novartis,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+377,Southern California Edison,"Pomona, Los Angeles County, California, United States",Pacific,106.238
+378,Reddit,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+379,Fareportal Inc.,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+380,TD Ameritrade,"Southlake, Tarrant County, Texas, United States, 76092",West South Central,103.193
+381,DOCOMO Innovations,"Palo Alto, Santa Clara County, California, United States",Pacific,106.238
+382,Fareportal Inc.,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+383,Arm,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+384,Software Engineering Institute,"Pittsburgh, Allegheny County, Pennsylvania, United States",Middle Atlantic ,103.518
+385,Ribbon,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+386,Novartis,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+387,Novartis,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+388,Alignment Healthcare,"Orange, Orange County, California, United States",Pacific,106.238
+389,Riverside Research Institute,"Beavercreek, Beavercreek Township, Greene County, Ohio, United States",East North Central,103.804
+390,SalonCentric,"St. Petersburg, Pinellas County, Florida, United States","Tampa-St. Petersburg-Clearwater, FL",229.219
+391,Novartis,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+392,Proofpoint,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+393,LeanData Inc.,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+394,Knowesis Inc.,"Fort Lewis, Joint Base Lewis-McChord, Pierce County, Washington, United States",Pacific,106.238
+395,Glassdoor,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+396,Agios Pharmaceuticals,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+397,PayScale,"Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+398,Telaria,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+399,Tecolote Research,"Arlington, Mason, Arlington County, Virginia, United States","Dallas-Fort Worth-Arlington, TX",239.815
+400,Presbyterian Healthcare Services,"Louisville, Jefferson County, Kentucky, United States",East South Central,102.457
+401,"Atara Biotherapeutics, Inc.","Aurora, Arapahoe County, Colorado, United States","Denver-Aurora-Lakewood, CO",270.974
+402,Pharmaceutical Product Development,"Morrisville, Cedar Fork, Wake County, North Carolina, United States",South Atlantic ,104.365
+403,"Whitney, Bradley and Brown","Quantico, Dumfries, Prince William County, Virginia, United States, 22134",South Atlantic ,104.365
+404,Purchasing Power,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+405,Home Buyers Warranty,"Aurora, Arapahoe County, Colorado, United States","Denver-Aurora-Lakewood, CO",270.974
+406,Liberty Mutual Insurance,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+407,Pivotal Software,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+408,Turo,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+409,EAB,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+410,"Software Resources, Inc.","Orlando, Orange County, Florida, United States",South Atlantic ,104.365
+411,Nurx,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+412,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+413,Northrop Grumman,"Rolling Meadows, Cook County, Illinois, United States",East North Central,103.804
+414,Taboola,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+415,States Title,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+416,Genesis Research,"Hoboken, Hudson County, New Jersey, United States",Middle Atlantic ,103.518
+417,Science 37,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+418,7Park Data,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+419,"Guidewire Software, Inc.","San Mateo, San Mateo County, California, United States",Pacific,106.238
+420,"Guidewire Software, Inc.","San Mateo, San Mateo County, California, United States",Pacific,106.238
+421,Maxar Technologies,"Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+422,Stripe,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+423,Public Consulting Group,"Albany, Albany County, New York, United States",,
+424,Snowflake,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+425,"Remedy BPCI Partners, LLC.","New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+426,Silicon Valley Bank,"Tempe, Maricopa County, Arizona, United States",Mountain,106.417
+427,Johns Hopkins University Applied Physics Laboratory,"Laurel, 10, Laurel, Prince George's County, Maryland, United States",South Atlantic ,104.365
+428,PearlCare Search Group,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+429,MatrixCare,"Bloomington, Fort Snelling Unorganized Territory, Hennepin County, Minnesota, United States","Minneapolis-St.Paul-Bloomington, MN-WI",251.416
+430,Riverside Research Institute,"Beavercreek, Beavercreek Township, Greene County, Ohio, United States",East North Central,103.804
+431,Mapbox,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+432,InfoTrust,"14268, South Maple Lane Court, Caufield, Oregon City, Clackamas County, Oregon, United States, 97045",Pacific,106.238
+433,Mitsubishi Electric Research Labs,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+434,Hilton Corporate,"McLean, Dranesville, Fairfax County, Virginia, United States",South Atlantic ,104.365
+435,Quartet Health,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+436,Gigster,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+437,Sojern,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+438,PayPal,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+439,IBM,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+440,Transamerica,"Denver, Denver County, Colorado, United States","Denver-Aurora-Lakewood, CO",270.974
+441,IntraEdge,"Scottsdale, Maricopa County, Arizona, United States","Phoenix-Mesa-Scottsdale, AZ",145.833
+442,Publicis Sapient,"Arlington, Mason, Arlington County, Virginia, United States","Dallas-Fort Worth-Arlington, TX",239.815
+443,AeroVironment,"Simi Valley, Ventura County, California, United States",Pacific,106.238
+444,Novetta,"Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+445,C2G Partners,"Columbia, Howard County, Maryland, United States","Baltimore-Columbia-Towson, MD",257.616
+446,AeroVironment,"Simi Valley, Ventura County, California, United States",Pacific,106.238
+447,Legal & General America,"Frederick, 2, Frederick, Frederick County, Maryland, United States",South Atlantic ,104.365
+448,IntraEdge,"Phoenix, Maricopa County, Arizona, United States","Phoenix-Mesa-Scottsdale, AZ",145.833
+449,NetApp,"Research Triangle, Durham, Triangle, Durham County, North Carolina, United States",South Atlantic ,104.365
+450,Presbyterian Healthcare Services,"Albuquerque, Bernalillo County, New Mexico, United States",Mountain,106.417
+451,Revel IT,"Columbus, Franklin County, Ohio, United States",East North Central,103.804
+452,Proofpoint,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+453,C3.ai,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+454,Mojio,"Campbell, Santa Clara County, California, United States",Pacific,106.238
+455,NJF Global Holdings,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+456,DICK'S Sporting Goods - Corporate,"Coraopolis, Allegheny County, Pennsylvania, United States, 15108",Middle Atlantic ,103.518
+457,Union Bankshares,"Glen Allen, Henrico County, Virginia, United States",South Atlantic ,104.365
+458,Pactera,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+459,Adavance2,"Los Angeles, Los Angeles County, California, United States","Los Angeles-Long Beach-Anaheim, CA",278.075
+460,SocialCode,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+461,Northwest FCU,"Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+462,Argus Information & Advisory Services,"White Plains, Westchester County, New York, United States",,
+463,Course Hero,"Redwood City, San Mateo County, California, United States",Pacific,106.238
+464,Johns Hopkins University Applied Physics Laboratory,"Laurel, 10, Laurel, Prince George's County, Maryland, United States",South Atlantic ,104.365
+465,Systems & Technology Research,"Woburn, Middlesex County, Massachusetts, United States",New England ,104.079
+466,Clarifai,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+467,Revel IT,"Columbus, Franklin County, Ohio, United States",East North Central,103.804
+468,Provisur Technologies,"Mokena, Frankfort Township, Will County, Illinois, United States",East North Central,103.804
+469,CORPORATE,"Charlottesville, Albemarle County, Virginia, United States",South Atlantic ,104.365
+470,Attune,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+471,Dell,"Austin, Travis County, Texas, United States",West South Central,103.193
+472,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+473,Clearwater Analytics,"Boise, Ada County, Idaho, United States",Mountain,106.417
+474,Sojern,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+475,Applied Information Sciences,"San Antonio, Bexar County, Texas, United States",West South Central,103.193
+476,Novartis,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+477,Press Ganey,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+478,Synechron,"Charlotte, Charlotte, Mecklenburg County, North Carolina, United States",South Atlantic ,104.365
+479,Two Sigma,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+480,Pactera,"Hartford, Hartford County, Connecticut, United States",New England ,104.079
+481,Figure Eight,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+482,Blueprint Medicines,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+483,Outreach,"Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+484,LiveRamp,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+485,Riverside Research Institute,"Wright-Patterson Air Force Base, Bath Township, Greene County, Ohio, United States",East North Central,103.804
+486,Kraken Digital Asset Exchange,"Los Angeles, Los Angeles County, California, United States","Los Angeles-Long Beach-Anaheim, CA",278.075
+487,Coinbase,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+488,Coinbase,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+489,eBay,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+490,GSN Games,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+491,Ericsson-Worldwide,"Plano, Collin County, Texas, United States",West South Central,103.193
+492,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+493,Berg Health,"Framingham, Middlesex County, Massachusetts, United States",New England ,104.079
+494,eBay,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+495,Verisk Analytics,"Jersey City, Hudson County, New Jersey, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+496,GSN Games,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+497,Wish,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+498,SurveyMonkey,"San Mateo, San Mateo County, California, United States",Pacific,106.238
+499,United Airlines,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+500,Niantic,"Culver City, Los Angeles County, California, United States",Pacific,106.238
+501,S&P GLOBAL MARKET INTELLIGENCE,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+502,Flexion Therapeutics,"Burlington, Middlesex County, Massachusetts, United States",New England ,104.079
+503,National Debt Relief,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+504,Eversight,"Palo Alto, Santa Clara County, California, United States",Pacific,106.238
+505,Seen by Indeed,"Philadelphia, Philadelphia County, Pennsylvania, United States","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",257.966
+506,Regeneron,"Tarrytown, Greenburgh, Westchester County, New York, United States",,
+507,Gusto,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+508,Avlino,"New Jersey, United States",Middle Atlantic ,103.518
+509,Verizon,"Alpharetta, Fulton County, Georgia, United States",South Atlantic ,104.365
+510,National Debt Relief,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+511,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+512,Esurance,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+513,The Syllogisteks Company,"St. Louis, Missouri, United States","St. Louis, MO-IL",231.653
+514,Mathematica Policy Research,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+515,Grammarly,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+516,DTE Energy,"Detroit, Wayne County, Michigan, United States","Detroit-Warren-Dearborn, MI",238.838
+517,Penske Logistics,"Beachwood, Cuyahoga County, Ohio, United States, 44122",East North Central,103.804
+518,Stanley Black & Decker,"New Britain, Hartford County, Connecticut, United States",New England ,104.079
+519,Northwestern Mutual Life Insurance Company,"Milwaukee, Milwaukee County, Wisconsin, United States",East North Central,103.804
+520,Ancestry,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+521,AstraZeneca,"Gaithersburg, 9, Montgomery County, Maryland, United States",South Atlantic ,104.365
+522,PRA Health Sciences,United States,,
+523,GSN Games,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+524,PwC,"Tampa, Hillsborough County, Florida, United States","Tampa-St. Petersburg-Clearwater, FL",229.219
+525,"Atara Biotherapeutics, Inc.","Thousand Oaks, Ventura County, California, United States",Pacific,106.238
+526,Fareportal Inc.,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+527,Northrop Grumman,"Monterey, Monterey County, California, United States",Pacific,106.238
+528,ASML,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+529,"Mercedes-Benz Research & Development North America, Inc.","Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+530,Strivr,"Menlo Park, San Mateo County, California, United States",Pacific,106.238
+531,OSI Engineering,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+532,Veracyte,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+533,American Axle & Manufacturing,"Southfield, Oakland County, Michigan, United States",East North Central,103.804
+534,Underwriters Laboratories,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+535,Smartsheet,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+536,Sandia National Laboratories,"Albuquerque, Bernalillo County, New Mexico, United States",Mountain,106.417
+537,Divvy,"Lehi, Utah County, Utah, United States",Mountain,106.417
+538,Guardian Life,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+539,"Remedy BPCI Partners, LLC.","New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+540,Avlino,"New Jersey, United States",Middle Atlantic ,103.518
+541,Specialized Bicycle,"Morgan Hill, Santa Clara County, California, United States",Pacific,106.238
+542,PearlCare Search Group,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+543,IntraEdge,"Scottsdale, Maricopa County, Arizona, United States","Phoenix-Mesa-Scottsdale, AZ",145.833
+544,Public Consulting Group,"Albany, Albany County, New York, United States",,
+545,Radius Bank,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+546,C3.ai,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+547,Revel IT,"Columbus, Franklin County, Ohio, United States",East North Central,103.804
+548,LiveRamp,"Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+549,Los Alamos National Laboratory,"Los Alamos, Los Alamos County, New Mexico, United States, 87544",Mountain,106.417
+550,NetApp,"Research Triangle, Durham, Triangle, Durham County, North Carolina, United States",South Atlantic ,104.365
+551,Proofpoint,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+552,Adavance2,"Los Angeles, Los Angeles County, California, United States","Los Angeles-Long Beach-Anaheim, CA",278.075
+553,IntraEdge,"Phoenix, Maricopa County, Arizona, United States","Phoenix-Mesa-Scottsdale, AZ",145.833
+554,C Space,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+555,FM Global,"Norwood, Norfolk County, Massachusetts, United States",New England ,104.079
+556,Presbyterian Healthcare Services,"Louisville, Jefferson County, Kentucky, United States",East South Central,102.457
+557,MeridianLink,"Costa Mesa, Orange County, California, United States",Pacific,106.238
+558,Mojio,"Campbell, Santa Clara County, California, United States",Pacific,106.238
+559,Pactera,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+560,Netskope,"Santa Clara, Santa Clara County, California, United States",Pacific,106.238
+561,DICK'S Sporting Goods - Corporate,"Coraopolis, Allegheny County, Pennsylvania, United States, 15108",Middle Atlantic ,103.518
+562,"Atara Biotherapeutics, Inc.","Aurora, Arapahoe County, Colorado, United States","Denver-Aurora-Lakewood, CO",270.974
+563,Riverside Research Institute,"Beavercreek, Beavercreek Township, Greene County, Ohio, United States",East North Central,103.804
+564,C2G Partners,"Columbia, Howard County, Maryland, United States","Baltimore-Columbia-Towson, MD",257.616
+565,Shape Security,"Santa Clara, Santa Clara County, California, United States",Pacific,106.238
+566,"Whitney, Bradley and Brown","Reston, Hunter Mill, Fairfax County, Virginia, United States",South Atlantic ,104.365
+567,Ascend Learning,"Leawood, Johnson County, Kansas, United States",West North Central,103.704
+568,NJF Global Holdings,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+569,Mitsubishi Electric Research Labs,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+570,AeroVironment,"Simi Valley, Ventura County, California, United States",Pacific,106.238
+571,Translate Bio,"Lexington, Middlesex County, Massachusetts, United States",New England ,104.079
+572,UFG Insurance,"Cedar Rapids, Linn County, Iowa, United States",West North Central,103.704
+573,Master Electronics,"Phoenix, Maricopa County, Arizona, United States","Phoenix-Mesa-Scottsdale, AZ",145.833
+574,SocialCode,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+575,Applied Research Laboratories,"Austin, Travis County, Texas, United States",West South Central,103.193
+576,Enterprise Holdings,"St. Louis, Missouri, United States","St. Louis, MO-IL",231.653
+577,Systems & Technology Research,"Woburn, Middlesex County, Massachusetts, United States",New England ,104.079
+578,Sweetwater,"Fort Wayne, Perry Township, Allen County, Indiana, United States",East North Central,103.804
+579,Johns Hopkins University Applied Physics Laboratory,"Laurel, 10, Laurel, Prince George's County, Maryland, United States",South Atlantic ,104.365
+580,Bill.com,"Palo Alto, Santa Clara County, California, United States",Pacific,106.238
+581,SpringML,"Indianapolis, Marion County, Indiana, United States",East North Central,103.804
+582,Revel IT,"Tucson, Pima County, Arizona, United States",Mountain,106.417
+583,AIR Worldwide,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+584,Glassdoor,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+585,Provisur Technologies,"Mokena, Frankfort Township, Will County, Illinois, United States",East North Central,103.804
+586,American Agcredit,"Denver, Denver County, Colorado, United States","Denver-Aurora-Lakewood, CO",270.974
+587,Attune,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+588,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+589,Course Hero,"Redwood City, San Mateo County, California, United States",Pacific,106.238
+590,Two Sigma,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+591,Argus Information & Advisory Services,"White Plains, Westchester County, New York, United States",,
+592,Dell,"Austin, Travis County, Texas, United States",West South Central,103.193
+593,Johns Hopkins University Applied Physics Laboratory,"Laurel, 10, Laurel, Prince George's County, Maryland, United States",South Atlantic ,104.365
+594,Revel IT,"Columbus, Franklin County, Ohio, United States",East North Central,103.804
+595,VillageMD,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+596,Flexential,"Denver, Denver County, Colorado, United States","Denver-Aurora-Lakewood, CO",270.974
+597,Northwest FCU,"Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+598,Union Bankshares,"Glen Allen, Henrico County, Virginia, United States",South Atlantic ,104.365
+599,CORPORATE,"Charlottesville, Albemarle County, Virginia, United States",South Atlantic ,104.365
+600,SpringML,"Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+601,"Remedy BPCI Partners, LLC.","New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+602,Software Engineering Institute,"Pittsburgh, Allegheny County, Pennsylvania, United States",Middle Atlantic ,103.518
+603,"eSolutions, Inc.","Overland Park, Johnson County, Kansas, United States",West North Central,103.704
+604,ATPCO,"Dulles, Dulles, Loudoun County, Virginia, United States",South Atlantic ,104.365
+605,Strategic Financial Solutions,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+606,Outreach,"Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+607,Kraken Digital Asset Exchange,"Los Angeles, Los Angeles County, California, United States","Los Angeles-Long Beach-Anaheim, CA",278.075
+608,Clearwater Analytics,"Boise, Ada County, Idaho, United States",Mountain,106.417
+609,Bridg,"Los Angeles, Los Angeles County, California, United States","Los Angeles-Long Beach-Anaheim, CA",278.075
+610,Improbable,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+611,Coinbase,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+612,PA Consulting,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+613,"eSolutions, Inc.","Overland Park, Johnson County, Kansas, United States",West North Central,103.704
+614,"eSolutions, Inc.","Overland Park, Johnson County, Kansas, United States",West North Central,103.704
+615,eBay,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+616,Pactera,"Hartford, Hartford County, Connecticut, United States",New England ,104.079
+617,Arbella Insurance,"Quincy, Norfolk County, Massachusetts, United States",New England ,104.079
+618,Synechron,"Charlotte, Charlotte, Mecklenburg County, North Carolina, United States",South Atlantic ,104.365
+619,Demandbase,"Fremont, Alameda County, California, United States",Pacific,106.238
+620,Applied Information Sciences,"San Antonio, Bexar County, Texas, United States",West South Central,103.193
+621,Presbyterian Healthcare Services,"Albuquerque, Bernalillo County, New Mexico, United States",Mountain,106.417
+622,Creative Financial Staffing,"Orlando, Orange County, Florida, United States",South Atlantic ,104.365
+623,Nyansa,"Palo Alto, Santa Clara County, California, United States",Pacific,106.238
+624,Ericsson-Worldwide,"Plano, Collin County, Texas, United States",West South Central,103.193
+625,LiveRamp,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+626,Berg Health,"Framingham, Middlesex County, Massachusetts, United States",New England ,104.079
+627,AstraZeneca,"Gaithersburg, 9, Montgomery County, Maryland, United States",South Atlantic ,104.365
+628,Liberty Mutual Insurance,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+629,AbleTo,United States,,
+630,NICE inContact,"Salt Lake City, Salt Lake County, Utah, United States",Mountain,106.417
+631,eBay,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+632,Wish,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+633,Sojern,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+634,Brilliant Corners,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+635,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+636,h2o.ai,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+637,Age of Learning,"Glendale, Los Angeles County, California, United States",Pacific,106.238
+638,Envision Experience,"Vienna, Hunter Mill, Fairfax County, Virginia, United States, 22180",South Atlantic ,104.365
+639,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+640,United Airlines,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+641,Grand Rounds,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+642,SurveyMonkey,"San Mateo, San Mateo County, California, United States",Pacific,106.238
+643,Faire,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+644,Riverside Research Institute,"Wright-Patterson Air Force Base, Bath Township, Greene County, Ohio, United States",East North Central,103.804
+645,Niantic,"Culver City, Los Angeles County, California, United States",Pacific,106.238
+646,Gusto,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+647,Samsung Research America,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+648,Eversight,"Palo Alto, Santa Clara County, California, United States",Pacific,106.238
+649,Practice Fusion,"Raleigh, Wake County, North Carolina, United States",South Atlantic ,104.365
+650,Zynga,"Austin, Travis County, Texas, United States",West South Central,103.193
+651,Two Sigma,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+652,Age of Learning,"Glendale, Los Angeles County, California, United States",Pacific,106.238
+653,Figure Eight,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+654,Seen by Indeed,"Philadelphia, Philadelphia County, Pennsylvania, United States","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",257.966
+655,GSN Games,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+656,WAVE Life Sciences,"Lexington, Middlesex County, Massachusetts, United States",New England ,104.079
+657,Northrop Grumman,"Annapolis Junction, Savage, Anne Arundel County, Maryland, United States",South Atlantic ,104.365
+658,National Debt Relief,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+659,Novetta,"Herndon, Dranesville, Fairfax County, Virginia, United States, 20170",South Atlantic ,104.365
+660,Regeneron,"Tarrytown, Greenburgh, Westchester County, New York, United States",,
+661,Novartis,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+662,Irvine Scientific,"Santa Ana, Orange County, California, United States",Pacific,106.238
+663,Clarity Insights,United States,,
+664,Blueprint Medicines,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+665,Assurance Careers,"Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+666,avenuecode.com,"Walnut Creek, Contra Costa County, California, United States",Pacific,106.238
+667,S&P GLOBAL MARKET INTELLIGENCE,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+668,Woodruff Sawyer,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+669,Billy Casper Golf,"Reston, Hunter Mill, Fairfax County, Virginia, United States",South Atlantic ,104.365
+670,S&P GLOBAL MARKET INTELLIGENCE,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+671,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+672,Entertainment Benefits Group,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+673,Instacart - Corporate,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+674,Credit Karma,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+675,Fareportal Inc.,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+676,Metromile,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+677,MassMutual,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+678,IntraEdge,"Phoenix, Maricopa County, Arizona, United States","Phoenix-Mesa-Scottsdale, AZ",145.833
+679,Verisk Analytics,"Jersey City, Hudson County, New Jersey, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+680,Exact Sciences Corporation,"Madison, Dane County, Wisconsin, United States",East North Central,103.804
+681,The Syllogisteks Company,"St. Louis, Missouri, United States","St. Louis, MO-IL",231.653
+682,Unity Technologies,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+683,eBay,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+684,Penske Logistics,"Beachwood, Cuyahoga County, Ohio, United States, 44122",East North Central,103.804
+685,Grammarly,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+686,Kraken Digital Asset Exchange,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+687,Demandbase,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+688,Mathematica Policy Research,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+689,"Turnitin, LLC","Oakland, Alameda County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+690,"Turnitin, LLC","Oakland, Alameda County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+691,DTE Energy,"Detroit, Wayne County, Michigan, United States","Detroit-Warren-Dearborn, MI",238.838
+692,Orange Coast Memorial Medical Center,"Fountain Valley, Orange County, California, United States, 92708",Pacific,106.238
+693,Stanley Black & Decker,"New Britain, Hartford County, Connecticut, United States",New England ,104.079
+694,GSN Games,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+695,Ancestry,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+696,Flexion Therapeutics,"Burlington, Middlesex County, Massachusetts, United States",New England ,104.079
+697,"Atara Biotherapeutics, Inc.","Thousand Oaks, Ventura County, California, United States",Pacific,106.238
+698,PwC,"Tampa, Hillsborough County, Florida, United States","Tampa-St. Petersburg-Clearwater, FL",229.219
+699,PRA Health Sciences,United States,,
+700,Ingersoll-Rand,"Davidson, Deweese, Mecklenburg County, North Carolina, United States",South Atlantic ,104.365
+701,The Buffalo Group,"Fort Belvoir, Mount Vernon, Fairfax County, Virginia, United States",South Atlantic ,104.365
+702,Northrop Grumman,"Monterey, Monterey County, California, United States",Pacific,106.238
+703,PwC,"Tampa, Hillsborough County, Florida, United States","Tampa-St. Petersburg-Clearwater, FL",229.219
+704,AstraZeneca,"Gaithersburg, 9, Montgomery County, Maryland, United States",South Atlantic ,104.365
+705,Northwestern Mutual Life Insurance Company,"Milwaukee, Milwaukee County, Wisconsin, United States",East North Central,103.804
+706,Esurance,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+707,SAGE Therapeutics,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+708,Fareportal Inc.,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+709,Swift Navigation,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+710,ASML,"San Jose, Santa Clara County, California, United States",Pacific,106.238
+711,SADA,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+712,Alaant Workforce Solutions,"Albany, Albany County, New York, United States",,
+713,OSI Engineering,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+714,Chan Zuckerberg Initiative,"Redwood City, San Mateo County, California, United States",Pacific,106.238
+715,"Mercedes-Benz Research & Development North America, Inc.","Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+716,Strivr,"Menlo Park, San Mateo County, California, United States",Pacific,106.238
+717,Comtech Safety & Security Technologies,"Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+718,Simon-Kucher & Partners,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+719,FM Global,"Norwood, Norfolk County, Massachusetts, United States",New England ,104.079
+720,Metropolitan Council,"North Saint Paul, Ramsey County, Minnesota, United States, 55109",West North Central,103.704
+721,OSI Engineering,"Newark, Alameda County, California, United States, 94560","New York-Newark-Jersey City, NY-NJ-PA",279.255
+722,Smartsheet,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+723,Agios Pharmaceuticals,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+724,Underwriters Laboratories,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+725,MLB.com,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+726,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+727,Sandia National Laboratories,"Albuquerque, Bernalillo County, New Mexico, United States",Mountain,106.417
+728,ManTech,"Sterling, Loudoun County, Virginia, United States",South Atlantic ,104.365
+729,Divvy,"Lehi, Utah County, Utah, United States",Mountain,106.417
+730,Intuit - Data,"Mountain View, Santa Clara County, California, United States",Pacific,106.238
+731,American Axle & Manufacturing,"Southfield, Oakland County, Michigan, United States",East North Central,103.804
+732,Tapjoy,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+733,Coffee Meets Bagel,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+734,Intuit - Data,"Mountain View, Santa Clara County, California, United States",Pacific,106.238
+735,BuildingConnected,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+736,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+737,"Remedy BPCI Partners, LLC.","New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+738,Alarm.com,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+739,Puget Sound Energy,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+740,Group O,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+741,Opcity,"Austin, Travis County, Texas, United States",West South Central,103.193
+742,Unisys,"Reston, Hunter Mill, Fairfax County, Virginia, United States",South Atlantic ,104.365
+743,PRA Health Sciences,United States,,
+744,Numerator,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+745,Veracyte,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+746,Sub Rosa,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+747,SAGE Therapeutics,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+748,GreatCall,"San Diego, San Diego County, California, United States","San Diego-Carlsbad, CA",301.033
+749,Amyris,"Emeryville, Alameda County, California, United States",Pacific,106.238
+750,Raybeam,"Mountain View, Santa Clara County, California, United States",Pacific,106.238
+751,Perspecta,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+752,Spectrum Communications and Consulting,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+753,Remitly,"Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+754,BlackLine,"Woodland Hills, Los Angeles, Los Angeles County, California, United States",Pacific,106.238
+755,Affinity,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+756,Esquire Recruiting,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+757,Fast Switch,"Dearborn, Wayne County, Michigan, United States","Detroit-Warren-Dearborn, MI",238.838
+758,Kelly Services,"Houston, Harris County, Texas, United States","Houston-The Woodlands-Sugar Land, TX",230.041
+759,GameChanger,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+760,Colgate-Palmolive,"Piscataway, Middlesex County, New Jersey, United States, 08854",Middle Atlantic ,103.518
+761,Perspecta,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+762,Southern New Hampshire University,"Manchester, Hillsborough County, New Hampshire, United States",New England ,104.079
+763,Rigetti Computing,"Berkeley, Alameda County, California, United States",Pacific,106.238
+764,Shutterfly,"Redwood City, San Mateo County, California, United States",Pacific,106.238
+765,Novetta,"Fort Belvoir, Mount Vernon, Fairfax County, Virginia, United States",South Atlantic ,104.365
+766,Novetta,"Fort Belvoir, Mount Vernon, Fairfax County, Virginia, United States",South Atlantic ,104.365
+770,Acorns,"Irvine, Orange County, California, United States",Pacific,106.238
+771,The Syllogisteks Company,"Creve Coeur, St. Louis County, Missouri, United States",West North Central,103.704
+772,Crossix Solutions,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+773,Assurance Careers,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+774,Henkel,"Rocky Hill, Hartford County, Connecticut, United States",New England ,104.079
+775,Airtable,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+776,Edison Energy,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+777,CyberCoders,"Austin, Travis County, Texas, United States",West South Central,103.193
+778,"Cotiviti, Inc.","Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+779,Paylocity,"14268, South Maple Lane Court, Caufield, Oregon City, Clackamas County, Oregon, United States, 97045",Pacific,106.238
+780,Deerwalk Inc.,"Lexington, Middlesex County, Massachusetts, United States",New England ,104.079
+781,Cloudflare,"Austin, Travis County, Texas, United States",West South Central,103.193
+782,HCSC,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+783,Ford Motor Company,"Dearborn, Wayne County, Michigan, United States","Detroit-Warren-Dearborn, MI",238.838
+784,"Itron, Inc.","Liberty Lake, Spokane County, Washington, United States",Pacific,106.238
+785,Formation,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+786,DCS Corp,"Hampton, Virginia, United States",South Atlantic ,104.365
+787,1904labs,"St. Louis, Missouri, United States","St. Louis, MO-IL",231.653
+788,INFICON,"East Syracuse, DeWitt, Onondaga County, New York, United States, 13057",,
+789,MATRIX Resources,"Kennesaw, Cobb County, Georgia, United States",South Atlantic ,104.365
+790,Monster,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+791,Renown Health,"Reno, Washoe County, Nevada, United States",Mountain,106.417
+792,Grab Technology LLC,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+793,L.A. Care Health Plan,"Los Angeles, Los Angeles County, California, United States","Los Angeles-Long Beach-Anaheim, CA",278.075
+794,"Brains Workgroup, Inc.","Plymouth Valley, Plymouth Township, Montgomery County, Pennsylvania, United States, 19462",Middle Atlantic ,103.518
+795,Covenant Eyes,"Owosso, Shiawassee County, Michigan, United States, 48867",East North Central,103.804
+796,Oden Technologies,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+797,Advantage Resourcing,"Broomfield, Broomfield County, Colorado, United States",Mountain,106.417
+798,Agilisium,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+799,ICONMA,"Plano, Collin County, Texas, United States",West South Central,103.193
+800,BigBear Inc.,"Reston, Hunter Mill, Fairfax County, Virginia, United States",South Atlantic ,104.365
+801,AGCO,"Duluth, Gwinnett County, Georgia, United States",South Atlantic ,104.365
+802,KYOCERA,"Concord, Contra Costa County, California, United States",Pacific,106.238
+803,Engage3,"Davis, Yolo County, California, United States",Pacific,106.238
+804,Synectics Inc.,"Peapack and Gladstone, Somerset County, New Jersey, United States",Middle Atlantic ,103.518
+805,"DIVERSANT, LLC.","Irving, Dallas County, Texas, United States",West South Central,103.193
+806,Network Objects Inc.,"Salt Lake City, Salt Lake County, Utah, United States",Mountain,106.417
+807,HCL America Inc.,"Bedminster, Somerset County, New Jersey, United States",Middle Atlantic ,103.518
+808,Axtria,"Berkeley Heights, Union County, New Jersey, United States",Middle Atlantic ,103.518
+809,Brooksource,"Dayton, Jefferson Township, Montgomery County, Ohio, United States",East North Central,103.804
+810,IGT (International Game Technology),"West Greenwich, Kent County, Rhode Island, United States, 02817",New England ,104.079
+811,CitiusTech,"Jacksonville, Duval County, Florida, United States",South Atlantic ,104.365
+812,Fusion Global Solutions,"Phoenix, Maricopa County, Arizona, United States","Phoenix-Mesa-Scottsdale, AZ",145.833
+813,Triplebyte,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+814,PriceSenz,"Broomfield, Broomfield County, Colorado, United States",Mountain,106.417
+815,Reliable Software Resources,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+816,deliverr.com,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+817,Jobot,"Austin, Travis County, Texas, United States",West South Central,103.193
+818,Migo,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+819,Rigetti Computing,"Berkeley, Alameda County, California, United States",Pacific,106.238
+820,V-Soft Consulting,"Miami, Miami-Dade County, Florida, United States","Miami-Fort Lauderdale-West Palm Beach, FL",271.381
+821,Voloridge Investment Management,"Jupiter, Palm Beach County, Florida, United States",South Atlantic ,104.365
+822,Modis,"Chattanooga, Hamilton County, Tennessee, United States",East South Central,102.457
+823,Noesys Inc,"Newark, Alameda County, California, United States, 94560","New York-Newark-Jersey City, NY-NJ-PA",279.255
+824,"ConsultNet, LLC","New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+825,Leidos,"Bethesda, 7, Montgomery County, Maryland, United States",South Atlantic ,104.365
+826,MITRE,"McLean, Dranesville, Fairfax County, Virginia, United States",South Atlantic ,104.365
+827,Marin Software,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+828,BuildingConnected,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+829,Two Sigma,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+830,Genentech,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+831,"Remedy BPCI Partners, LLC.","New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+832,Puget Sound Energy,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+833,C2G Partners,"Columbia, Howard County, Maryland, United States","Baltimore-Columbia-Towson, MD",257.616
+834,Alarm.com,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+835,Opcity,"Austin, Travis County, Texas, United States",West South Central,103.193
+836,Granular,"Johnston, Webster, Polk County, Iowa, United States",West North Central,103.704
+837,Group O,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+838,PRA Health Sciences,United States,,
+839,Unisys,"Reston, Hunter Mill, Fairfax County, Virginia, United States",South Atlantic ,104.365
+840,Numerator,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+841,Veracyte,"South San Francisco, San Mateo County, California, United States",Pacific,106.238
+842,Guild Education,"Denver, Denver County, Colorado, United States","Denver-Aurora-Lakewood, CO",270.974
+843,Integral Ad Science,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+844,Sub Rosa,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+845,SAGE Therapeutics,"Cambridge, Middlesex County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+846,Secureworks,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+847,GreatCall,"San Diego, San Diego County, California, United States","San Diego-Carlsbad, CA",301.033
+848,KSM Consulting,"Indianapolis, Marion County, Indiana, United States",East North Central,103.804
+849,Perspecta,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+850,Raybeam,"Mountain View, Santa Clara County, California, United States",Pacific,106.238
+851,Spectrum Communications and Consulting,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+852,Remitly,"Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+853,Pharmaceutical Product Development,"Middleton, Dane County, Wisconsin, United States",East North Central,103.804
+854,BlackBerry,"Austin, Travis County, Texas, United States",West South Central,103.193
+855,Thryv,"Dallas, Dallas County, Texas, United States","Dallas-Fort Worth-Arlington, TX",239.815
+856,BlackLine,"Woodland Hills, Los Angeles, Los Angeles County, California, United States",Pacific,106.238
+857,Pivotal Software,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+858,C3.ai,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+859,Shell,"Houston, Harris County, Texas, United States","Houston-The Woodlands-Sugar Land, TX",230.041
+860,Affinity,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+861,FHLBank San Francisco,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+862,Charles River Associates,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+863,Esquire Recruiting,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+864,AeroVironment,"Simi Valley, Ventura County, California, United States",Pacific,106.238
+865,Purchasing Power,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+866,Fast Switch,"Dearborn, Wayne County, Michigan, United States","Detroit-Warren-Dearborn, MI",238.838
+867,Kelly Services,"Houston, Harris County, Texas, United States","Houston-The Woodlands-Sugar Land, TX",230.041
+868,GameChanger,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+869,Presbyterian Healthcare Services,"Columbus, Franklin County, Ohio, United States",East North Central,103.804
+870,Perspecta,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+871,Southern New Hampshire University,"Manchester, Hillsborough County, New Hampshire, United States",New England ,104.079
+872,Colgate-Palmolive,"Piscataway, Middlesex County, New Jersey, United States, 08854",Middle Atlantic ,103.518
+873,Rigetti Computing,"Berkeley, Alameda County, California, United States",Pacific,106.238
+874,Redox,"14268, South Maple Lane Court, Caufield, Oregon City, Clackamas County, Oregon, United States, 97045",Pacific,106.238
+875,FORMA THERAPEUTICS,"Watertown, Middlesex County, Massachusetts, United States",New England ,104.079
+876,Tinder,"West Hollywood, Central LA, Los Angeles County, California, United States",Pacific,106.238
+877,Genworth,"Raleigh, Wake County, North Carolina, United States",South Atlantic ,104.365
+878,The Knot Worldwide,"Washington, District of Columbia, District of Columbia, United States","Washington-Arlington-Alexandria, DC-VA-MD-WV",265.500
+879,Crossix Solutions,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+880,Acorns,"Irvine, Orange County, California, United States",Pacific,106.238
+881,The Syllogisteks Company,"Creve Coeur, St. Louis County, Missouri, United States",West North Central,103.704
+882,Assurance Careers,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+883,Henkel,"Rocky Hill, Hartford County, Connecticut, United States",New England ,104.079
+884,Airtable,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+885,Edison Energy,"Boston, Suffolk County, Massachusetts, United States","Boston-Cambridge-Newton, MA-NH",281.603
+886,CyberCoders,"Austin, Travis County, Texas, United States",West South Central,103.193
+887,"Cotiviti, Inc.","Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+888,Paylocity,"14268, South Maple Lane Court, Caufield, Oregon City, Clackamas County, Oregon, United States, 97045",Pacific,106.238
+889,Oden Technologies,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+890,Marin Software,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+891,Paylocity,"14268, South Maple Lane Court, Caufield, Oregon City, Clackamas County, Oregon, United States, 97045",Pacific,106.238
+892,Deerwalk Inc.,"Lexington, Middlesex County, Massachusetts, United States",New England ,104.079
+893,HCSC,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+894,Cloudflare,"Austin, Travis County, Texas, United States",West South Central,103.193
+895,Knight Capital Funding,"Fort Lauderdale, Broward County, Florida, United States","Miami-Fort Lauderdale-West Palm Beach, FL",271.381
+896,DCS Corp,"Hampton, Virginia, United States",South Atlantic ,104.365
+897,CubeSmart,"Malvern, Chester County, Pennsylvania, United States, 19355",Middle Atlantic ,103.518
+898,Formation,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+899,Waitr,"Lafayette, Parish Governing Authority District B, Lafayette Parish, Louisiana, United States",West South Central,103.193
+900,red violet (NASDAQ: RDVT),"Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+901,L.A. Care Health Plan,"Los Angeles, Los Angeles County, California, United States","Los Angeles-Long Beach-Anaheim, CA",278.075
+902,Renown Health,"Reno, Washoe County, Nevada, United States",Mountain,106.417
+903,MICROSOFT CORP,"Redmond, King County, Washington, United States",Pacific,106.238
+904,"Itron, Inc.","Liberty Lake, Spokane County, Washington, United States",Pacific,106.238
+905,1904labs,"St. Louis, Missouri, United States","St. Louis, MO-IL",231.653
+906,Ford Motor Company,"Dearborn, Wayne County, Michigan, United States","Detroit-Warren-Dearborn, MI",238.838
+907,INFICON,"East Syracuse, DeWitt, Onondaga County, New York, United States, 13057",,
+908,MATRIX Resources,"Kennesaw, Cobb County, Georgia, United States",South Atlantic ,104.365
+909,Monster,"Atlanta, Fulton County, Georgia, United States","Atlanta-Sandy Springs-Roswell, GA",245.860
+910,"CGI Group, Inc.","Fairfax, Virginia, United States",South Atlantic ,104.365
+911,Sparksoft,"Columbia, Howard County, Maryland, United States","Baltimore-Columbia-Towson, MD",257.616
+912,Grab Technology LLC,"Bellevue, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+913,"Brains Workgroup, Inc.","Plymouth Valley, Plymouth Township, Montgomery County, Pennsylvania, United States, 19462",Middle Atlantic ,103.518
+914,"3k Technologies, LLC","San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+915,Advantage Resourcing,"Broomfield, Broomfield County, Colorado, United States",Mountain,106.417
+916,Agilisium,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+917,ICONMA,"Plano, Collin County, Texas, United States",West South Central,103.193
+918,Dewberry,"Fairfax, Virginia, United States",South Atlantic ,104.365
+919,Amazon Corporate LLC,"Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+920,Idaho National Laboratory,"Idaho Falls, Bonneville County, Idaho, United States",Mountain,106.417
+921,Oden Technologies,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+922,Marin Software,"San Francisco, San Francisco County, California, United States","San Francisco-Oakland-Hayward, CA",298.443
+923,Widenet Consulting,"Seattle, King County, Washington, United States",Seattle-Tacoma-Bellevue WA,278.682
+924,Eiden Systems Corporation,"Suitland, Suitland-Silver Hill, 6, Spauldings, Prince George's County, Maryland, United States, 20746",South Atlantic ,104.365
+925,AGCO,"Duluth, Gwinnett County, Georgia, United States",South Atlantic ,104.365
+926,Nielsen,"Chicago, Cook County, Illinois, United States","Chicago-Naperville-Elgin, IL-IN-WI",243.236
+927,BigBear Inc.,"Reston, Hunter Mill, Fairfax County, Virginia, United States",South Atlantic ,104.365
+928,Oak Ridge National Laboratory,"Oak Ridge, Anderson County, Tennessee, United States",East South Central,102.457
+929,KYOCERA,"Concord, Contra Costa County, California, United States",Pacific,106.238
+930,Engage3,"Davis, Yolo County, California, United States",Pacific,106.238
+931,Synectics Inc.,"Peapack and Gladstone, Somerset County, New Jersey, United States",Middle Atlantic ,103.518
+932,REX,"Austin, Travis County, Texas, United States",West South Central,103.193
+933,Point72,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+934,"Aptude, Inc.","Appleton, Outagamie County, Wisconsin, United States",East North Central,103.804
+935,Insightin Health,"Baltimore, Maryland, United States","Baltimore-Columbia-Towson, MD",257.616
+936,SIGMA Marketing Insights,"Rochester, Monroe County, New York, United States",,
+937,Jobot,"Austin, Travis County, Texas, United States",West South Central,103.193
+938,Modulus Consulting LLC,"Crystal Lake, McHenry County, Illinois, United States",East North Central,103.804
+939,PriceSenz,"Broomfield, Broomfield County, Colorado, United States",Mountain,106.417
+940,Prestige Financial Services,"Salt Lake City, Salt Lake County, Utah, United States",Mountain,106.417
+941,Network Objects Inc.,"Salt Lake City, Salt Lake County, Utah, United States",Mountain,106.417
+942,"DIVERSANT, LLC.","Irving, Dallas County, Texas, United States",West South Central,103.193
+943,OperationIT,"Hicksville, Hicksville, Oyster Bay, Nassau County, New York, United States",,
+944,Rootshell Enterprise Technologies Inc.,"Sunnyvale, Santa Clara County, California, United States",Pacific,106.238
+945,Saicon Consultants Inc,"Woonsocket, Providence County, Rhode Island, United States, 02895",New England ,104.079
+946,Brooksource,"Dayton, Jefferson Township, Montgomery County, Ohio, United States",East North Central,103.804
+947,Yum! Brands,"Plano, Collin County, Texas, United States",West South Central,103.193
+948,Ateroz,"Irving, Dallas County, Texas, United States",West South Central,103.193
+949,Reliable Software Resources,"New York, New York, United States","New York-Newark-Jersey City, NY-NJ-PA",279.255
+950,HCL America Inc.,"Bedminster, Somerset County, New Jersey, United States",Middle Atlantic ,103.518
+951,V-Soft Consulting,"Miami, Miami-Dade County, Florida, United States","Miami-Fort Lauderdale-West Palm Beach, FL",271.381
+952,Technical Paradigm LLC,"Plano, Collin County, Texas, United States",West South Central,103.193

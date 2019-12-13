@@ -1,0 +1,813 @@
+@des The @WalmartLabs Personalization team consists of platform, application engineers, scientists and product visionaries all working together to design, prototype and build technology-driven products and experiences that will change the future landscape of ecommerce. We are focused on building the global service layer that will enable the end-to-end customer experience, from finding the product to delivering it to the customer. This will span many markets, business models and form factors; therefore, we are looking for engineers who will bring not only an abundance of experiences in technologies, but an abundant curiosity to innovate.
+@des Come join an organization where you'll get to work as part of a world-class team, solve problems that are at a scale few can create, and get to build products that are only bound by the scope of your imagination. Put your footprint on ground up development focused on building brand new products that will impact a Global customer base.
+@req - PhD + 1 year, MS + 4 years, BS + 6 years of work experience in Computer Science, Machine Learning, Mathematics, Statistics or related fields
+@req Deep knowledge in quantitative analysis and Statistical techniques
+@req Work experience in machine learning models, data mining techniques, natural language processing or related fields
+@req Proficient with at least one modern compiled programming language (Java, C++ etc) and one scripting language(Python, Ruby, PHP, Javascript etc.)
+@req Experience with big data technology (Hadoop, Hive, Spark, Hbase, etc.) and data processing pipeline
+@req Excellent problem solving and analytical skills
+@req Solid foundation in data structures and algorithms
+@req - Proven experience to complete complex projects from start to end
+@req Proven background in Distributed Computing, Data Warehousing, ETL development, and large scale data processing
+@req Strong skills in database systems (mySQL) and complex SQL queries is a plus
+@req Some knowledge in optimization techniques is a plus
+@des The Senior Data Scientist will be a part of the S&P Global Market Intelligence (SPGMI) Data Science team.
+@des Discover insights and identify opportunities through the use of statistics, algorithms, data mining and visualization techniques
+@des • Build and evaluate models, make predictions, gather results, and communicate findings to stakeholders
+@des • Evaluate the big picture and solve problems rather than looking at metrics alone
+@des • Use advanced business knowledge and advanced machine learning techniques to acquire, combine & transform multiple dataset to solve a business use case
+@des • Collaborate with engineering and product teams to create and build strategic models that drive product improvements while maintaining cost efficiency
+@des • Build and maintain re-usable machine learning and model validation procedures for the rest of the team to use
+@req • Bachelors Degree in Mathematics, Statistics, Computer Science, Engineering, Operations Research or related fields preferred (Masters degree an advantage)
+@req • 5+ years practical experience with statistical analysis and creating complex models, preferably in the financial services sector
+@req • Excellent analytical and problem solving skills
+@req • Advanced experience in at least one data analysis/data transformation package (R, Python, Alteryx)
+@req • Exposure to one or more data discovery, data visualization tools
+@req • 5+ years of hypothesis testing, web analytics and python scripting
+@req • Experience with Machine Learning and Natural Language Processing
+@req • Ability to remain focused and to think logically in a fast-paced environment
+@req * experience with nlp
+@req * exposure to reinforcement learning
+@req * exposure to information retrieval (search)
+@des The following reflects management’s definition of essential functions for this job but does not restrict the tasks that may be assigned. Management may assign or reassign duties and responsibilities to this job at any time, including for reasonable accommodation purposes.
+@des Collect and analyze data from multiple studies using appropriate statistical methods (i.e. descriptive statistics, cross-tabulation, correlation), identifying trends and drawing conclusions taking into account secondary sources and industry knowledge
+@des Synthesize multi-study results, preparing detailed and accurate written reports (including data tables, charts, and graphics) with actionable insights for presentation to clients and media team
+@des Experience in digital marketing platforms including Google Ads, Google Analytics, Google Data Studio, Google Tag Manager and A/B Testing
+@des Recommend and oversee implementation of the most effective digital communications within client budgets for assigned agency clients
+@des Constantly explore new digital options, platforms and analyze for client benefit
+@des Update clients/agency with digital media trends and topics (integrate with other media
+@des Be visible in the community (ex: member of boards, events, nonprofits or associations)
+@des Excel at collaboration and communication with creative and client services
+@des Advocate for new business opportunities; develop and utilize network of reps
+@des Plan, create, communicate and evaluate client digital marketing campaigns for successful outcomes
+@req Excellent written and verbal communication skills
+@req Expert knowledge of Microsoft Office Suite including Excel, PowerPoint, and Word
+@req Expert knowledge of Google marketing tools including Google Ads, Google Analytics, Google Data Studio and Google Tag Manager
+@req Convincing presentation skills
+@req Able to manage client expectations
+@req Knowledge of digital media planning process, digital media buying process and website project management
+@req Strong organizational, mathematical, problem solving and analytical skills
+@req Able to handle multiple projects and meet deadlines
+@req Able to engage effectively with diverse individuals at all levels
+@req Five plus years of related experience
+@req Advanced knowledge of digital platforms
+@req Bachelor's degree from four-year college or university or equivalent experience.
+@des Organized, Detail Oriented, Multi-tasker, Self-Starter, and works well under pressure; these are some of the qualities we are looking for in our newest member of our growing ecommerce team! Here is a unique opportunity to join a proud and GROWING Berkshire Hathaway company that is well-known in the industry for its creative advertising and employee-focused culture. Reporting to the Director of eCommerce, the Web Analytics Manager is responsible for delivering the best-in-class web analytics aimed at understanding the customer journey and conversion trends, drive sales, as well as, proactively identify optimization opportunities to champion for execution. Partners with cross-functional stakeholders to assess actual vs. expected performance. Please note this job is located at our corporate offices: 450 Revolutionary Drive, East Taunton, MA.
+@des Improves the customer experience and drives sales by developing a deep understanding of our customer behavior on Jordans.com through detailed analytics
+@des Transforms business questions into actionable analysis that yields insights for improving the UX, optimizing marketing efforts, and driving incremental sales
+@des Partners in the management and strategy to drive forward a holistic A/B testing plan in effort to optimize the customer experience and provide more personalized content
+@des Assists in eCommerce investment decisions by evaluating and forecasting digital behavior
+@des Scopes the impact of strategic initiatives as an input into eCommerce roadmap planning
+@des Pro-actively identifies areas of opportunity through standard reporting or deep dive analysis
+@des Builds and maintains dashboards, tools, and measurement systems to optimize key functions, including but not limited to traffic, UX, and conversion funnels
+@des Stays current on trends and best practices in digital analytics and eCommerce
+@req B.S. degree in Computer Science, Business, Statistics, or related discipline required
+@req 5+ years of relevant experience required
+@req High level of business acumen. Retail/eCommerce industry knowledge required
+@req Experience with digital analytics, like Google or Adobe Analytics
+@req Proficiency in SQL and knowledge of database models
+@req Strong proficiency in Microsoft Office
+@req Agile Excel skills (pivots, index match, offset, etc.) required
+@req Experience with programming languages (SQL/Python/VBA ) to facilitate automation a plus
+@req Excellent critical thinking, problem solving, and communication skills required
+@req Ability to adapt to changing trends of the business
+@req Excellent interpersonal and communication skills with the ability to collaborate, and influence others
+@req Effective relationship building skills
+@des TN is a global leader providing insights and analytics to our customers who feed, protect, and fuel the world. The data science team at DTN currently has an opening for an individual with a passion for learning and solving challenging problems.
+@des This role can be based out any one of the following DTN locations; Burnsville, MN, West Lafayette, IN, Omaha, NE, or Norman, OK.
+@des As part of the team you will:
+@des •Gain experience in all areas of data science
+@des •Tackle a wide variety of problems in weather, agriculture, energy, and finance
+@des •Explore our unique, proprietary datasets to find solutions to meaningful problems
+@des •Work in a professional environment with passionate coworkers
+@des Responsibilities:
+@des •Quick feasibility checks with go/no-go recommendations
+@des •Data exploration to identify and advance insight solutions
+@des •Data cleaning
+@des •Model development to support production solutions
+@des •Visualization generation
+@des •Outcome presentation to senior leadership
+@des •Model evaluations and recommendations
+@req Requirements:
+@req •Machine Learning Experience (Supervised/Variety of Techniques)
+@req •Python Programming Experience
+@req •Experience with some of the common machine learning toolkits:
+@req •Scikit-Learn, Numpy, Scipy, Pandas, Matplotlib, Tensorflow, Keras
+@req •Mathematics/Probability/Statistics Understanding
+@req •MS/PhD in math, CS, engineering, or related field
+@req •2+ years of relevant experience in a data science or machine learning role
+@req •Evidence of past projects or experience may be considered in lieu of formal work experience
+@req •Independent, Self-Directed
+@req •Fast learner
+@req •Good Communication Skills
+@req •Experience building weather-driven models a plus
+@des The Business Intelligence Analyst will lead conversations with clients to define business requirements, have a hands-on role in developing Tableau dashboards to satisfy requirements, and training clients on effective use of dashboards. Additionally, this position will provide support for internal Business Intelligence Subject-Matter Experts (SMEs), whose role it is to engage clients proactively, and to identify and bring forward key observations derived from the aforementioned Business Intelligence (BI) solutions.
+@des Direct Responsibilities:
+@des Analyze data, identify anomalies, and provide useable insight to internal and external clients.
+@des Address external client data requests, including: project scope, consultation, conception, production, and end-user delivery.
+@des Build custom data deliveries using Tableau Software.
+@des Stay current with data analytics/business intelligence techniques and technologies.
+@des Maintain positive, professional business acumen and relationships with the company cross-functional teams and external customers.
+@des Collaborate with SMEs and clients on interpreting data and identifying opportunities evident in BI solution.
+@req Requirements:
+@req BS in Finance, Accounting, Economics, Statistics, Decision Sciences, Information Technology, Economics, Physics, Mathematics, or similar field
+@req 3-5 years of professional business experience
+@req 2 years’ analytical experience (with exposure to BI tools)
+@req Experience utilizing Business Intelligence software, preferably Tableau Software
+@req Working knowledge of MS SQL and Excel
+@req Experience working with both internal and external client data requests
+@req Strong communication skills
+@req Positive attitude and team oriented-mentality.
+@des What you’ll be doing...
+@des The Consultant in Revenue Assurance is responsible for analysis, insights, observations and decision support for our business leaders in Finance, Marketing, & Network. As a senior level data analyst in Revenue Assurance, the consultant will perform complex data extraction and analysis, develop clear visualizations, and apply data models to deliver results-oriented insights to improve revenue, profitability and customer experience.
+@des The tools used to perform these advanced analytics functions will vary depending on the nature of the request, but will likely include expert-level SQL (Teradata and/or Oracle) with the REVO Database and Cassandra/Hadoop experience a plus. Emerging data visualization technologies and experience in Tableau is also beneficial.
+@des The Consultant will also be responsible to lead and manage enterprise level projects, identify risks, develop strategic relationships and design system controls. Candidates will have a strong background in project management and/or systems auditing.
+@des Independently manage analytic projects of intermediate to advanced sophistication from design to resolution with minimal oversight.
+@des Leverage emerging technologies (Big Data) and advanced analytic techniques to create models that identify system risks and failures.
+@des Design, develop and implement sophisticated solutions to ensure the ongoing integrity of our revenue streams and customer experience.
+@des Design and develop standard and ad hoc reporting based on business requirement needs.
+@des Direct and coordinate ETL (Extract, Transform, Load), data analysis, and reporting with respect to business intelligence efforts.
+@des Identify opportunities for revenue recovery and assist in implementation.
+@des Utilizing business knowledge, financial analysis skills and risk management techniques, champion efforts to effect changes within the business to ensure subscribers are billed correctly.
+@des Partner with cross-functional groups across the enterprise in Finance, Marketing, IT, Network and Supply Chain to assess impact and drive critical issue resolution.
+@des Exercise sound judgment in developing methods and techniques that requires data analysis and interpretation.
+@des Direct the identification and use of appropriate analytical technologies.
+@des Ensure analytics are captured using dashboard using statistical means, Teradata, and ETL and critical issues are identified and resolved in a timely manner.
+@des Lead cross-functional, enterprise level project efforts within Revenue Assurance. Assess risks and identify control processes, design user stories and drive to implementation.
+@des Partner with cross functional Finance organizations, IT, Marketing, and Product teams to identify issues and drive complex issues to resolution. This includes, but is not limited to:
+@des Lead initiatives in the role of a Subject Matter Expert to resolve problems.
+@des Articulate and communicate to broad audience with focus on execution.
+@des Document and communicate resolution action plans.
+@req What we’re looking for...
+@req You’re analytical, organized, and detail oriented. A self-starter and quick learner who can work independently, but you’re also great to have on a team. You communicate well with others. You’re no stranger to a fast-paced environment and tight deadlines, and you adapt to changing priorities and juggle multiple projects with ease. You take a lot of pride in your work, and that’s why people count on you to deliver.
+@req You’ll need to have:
+@req Bachelor’s degree or four or more years of work experience.
+@req Four or more years of relevant work experience.
+@req Willingness to work evenings and weekends.
+@req Even better if you have:
+@req A degree.
+@req Demonstrated technicalexperience in billing and accounting practices.
+@req Advanced Tableau knowledge.
+@req Deepknowledge of both Oracle and Teradata, ideally holding a certification in one or more.
+@req Experience with cellular billing systems.
+@req Leadership experience with a heightened sense of diplomacy to accomplish significant projects and tasks.
+@req Demonstrated ability to understand stored data and create SQL statements to extract information.
+@req Strong desire to ensure accurate recording of company revenues.
+@req Experience managing multiple project deadline requirements.
+@des Founded with the mission to enable successful treatments for every patient, zPREDICTA has developed the organ-specific 3D cell culture technology replicating human tumor microenvironment permitting reliable identification of compounds with a high probability of success in the clinic. You will join a dynamic and agile team developing 3D tissue models to support anticancer drug development. You will be responsible for building a scientific team, directing internal R&D and external partner projects, and contributing to the growth of zPREDICTA brand.
+@des To be successful, you have to be excited by the fast-paced environment of a start-up, be engaged while performing multiple roles, and possess a versatile set of technical skills. Along with a competitive compensation and benefits package and equity ownership we offer an opportunity to work side-by-side with the leadership team and advance into a senior leadership role in a highly collaborative environment at zPREDICTA.
+@des KEY RESPONSIBILITIES
+@des Design, develop, and implement new organ-specific 3D tissue models for target discovery and efficacy and toxicity testing of anticancer agents
+@des Build and grow a versatile scientific team responsible for R&D and partner projects
+@des Support partner projects from study design through data analysis and report preparation
+@req EDUCATION
+@req Ph.D. in Cell Biology, Immunology, or related life science discipline, AND
+@req 1-5 years of industry experience; start-up experience is a plus
+@req REQUIRED EXPERIENCE
+@req Scaffold-based 3D cell culture of primary human/mouse cells and cell lines
+@req Expertise in tumor microenvironment, specifically ECM and cellular heterogeneity
+@req Assay development
+@req Flow cytometry
+@req Microscopy (brightfield, immunofluorescence, confocal, high content)
+@req Setting-up SOPs and developing protocols and procedures
+@req PREFERRED EXPERIENCE
+@req PDX models and culture of PDX tissue
+@req Lab automation
+@req PERSONAL CHARACTERISTICS
+@req Focused, but capable of driving multiple projects
+@req Curious, creative, and independent thinker driven to solve problems
+@req Unafraid of working outside of the area of expertise and experimenting with new approaches
+@req Roll-up-your-sleeves and jump-in attitude
+@req Appreciate a fast-paced environment
+@req Enjoy teaching
+@des Amobee is the worlds leading independent advertising platform that unifies all channelsincluding TV, programmatic and socialacross all formats and devices. We provide marketers with advanced cross-channel media planning powered by advanced analytics and proprietary data. Our platform and technology provide sophisticated video-advertising solutions for the convergence of linear TV, over the top, connected TV, and premium digital.
+@des Amobee has been named to Fortunes Top 10 Best Workplaces in Advertising and Marketing. Amobees platforms have been widely recognized amongst our industry winning numerous awards in technology innovation. We are a wholly owned subsidiary of Singtel, one of the largest telco companies in the world, reaching over 700 million mobile subscribers in 21 countries. Amobee operates across North America, Europe, Middle East, Asia and Australia. For more information, visit amobee.com or follow @amobee.
+@des Position Overview:
+@des As a Data Scientist you will be working with large data sets to perform analysis, define data transformations, and build models. You will collaborate with the team to design solutions that focus on buying, selling, forecasting, allocating, delivering, and reporting of advertising on the internet and TV. You will generate bleeding-edge solutions through the application of mathematics, optimization, and machine learning capabilities. The position provides great opportunities to communicate with the business directly, bridging the gap between technology and business. Qualified individuals will have a solid background in the fundamentals of data engineering, data science, computer science or statistics, with experience and comfort with data access and manipulation.
+@des Responsibilities:
+@des Apply mathematics to optimize the acquisition and allocation of advertising inventory using information about the inventory, advertiser and the targeted consumer
+@des Work cross functionally to gather feedback and requirements from end users
+@des Design innovative solutions and build prototypes for proof of concept
+@des Develop, launch, and evolve new products
+@des Be a thought leader in identifying and vetting new data sources
+@des Execute research that results in ground-breaking papers and case studies that support the needs of the sales and marketing functions
+@des Perform ad-hoc analysis on campaign, publisher, or product performance
+@req Requirements:
+@req A masters or PhD degree in a quantitative discipline, such as Computer Science, Statistics , Mathematics, Industrial Engineering, Mechanical Engineering.
+@req Strong analytical and problem-solving skills with attention to detail
+@req Ability to work as part of a team in a fast-paced environment
+@req Ability to quantify and communicate the value of a new method or process to the business
+@req Experience with data engineering tools used to access, merge, transform and evaluate data sources
+@req Experience with statistical software (e.g., Python, R), SQL and data frameworks (e.g., Spark, Pig)
+@req Experience with Gurobi a plus
+@req Experience with modeling concepts, such as training/test paradigm, validation of models, and knowledge of modeling techniques (linear and logistic regression, decision trees, etc.)
+@des Position Description
+@des A Data Scientist is responsible for analyzing large data sets to develop custom models and algorithms to drive business solutions. Data Scientists work on project teams in order to provide analytical support to projects (for example, email targeting, business optimization, consumer recommendations) for Walmart eCommerce. Data Scientists are responsible for building large data sets from multiple sources in order to build algorithms for predicting future data characteristics. Those algorithms will be tested, validated, and applied to large data sets. Data Scientists are responsible for training the algorithms so they can be applied to future data sets and provide the appropriate search results. Data Scientists are responsible for researching new trends in the industry and utilizing up-to-date technology (for example, HBase, MapReduce, LAPack, Gurobi) and analytical skills to support their assigned project.
+@des Build complex data sets from multiple data sources, both internally and externally.
+@des Build learning systems to analyze and filter continuous data flows and offline data analysis.
+@des Combine data features to determine search models.
+@des Conduct advanced statistical analysis to determine trends and significant data relationships.
+@des Demonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plans
+@des Develop custom data models to drive innovative business solutions.
+@des Develop models of current state in order to determine needed improvements.
+@des Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity
+@des Provides and supports the implementation of business solutions
+@des Research new techniques and best practices within the industry.
+@des Scale new algorithms to large data sets.
+@des Train algorithms to apply models to new data sets.
+@des Utilize system tools including (MySQL, Hadoop, Weka, R, Matlab,ILog).
+@des Validate models and algorithmic techniques.
+@des Work with cross-functional partners across the business
+@req Minimum Qualifications
+@req Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity
+@req Provides and supports the implementation of business solutions
+@req Research new techniques and best practices within the industry.
+@req Scale new algorithms to large data sets.
+@req Train algorithms to apply models to new data sets.
+@req Utilize system tools including (MySQL, Hadoop, Weka, R, Matlab,ILog).
+@req Validate models and algorithmic techniques.
+@req Work with cross-functional partners across the business</ul>
+@req Additional Preferred Qualifications
+@des Please Note: this role is for experienced candidates only. Quantitative Research & Trading roles for campus candidates can be found by using the On-Campus Recruiting filter on our Careers Page.
+@des Tower Research Capital, a high-frequency proprietary trading firm founded in 1998, seeks experienced Quantitative Research Analysts.
+@des As a member of one of Tower's trading teams, a Quantitative Research Analyst will be using Tower's in-house trading system—one of the fastest and most comprehensive in the world—to develop and deploy algorithmic trading strategies based on patterns in market behavior.
+@des Responsibilities
+@des Designing, implementing, and deploying high-frequency trading algorithms
+@des Exploring trading ideas by analyzing market data and market micro-structure for patterns
+@des Creating tools to analyze data for patterns
+@des Contributing to libraries of analytical computations to support market data analysis and trading
+@des Developing, augmenting, and calibrating exchange simulators
+@req Qualifications
+@req A PhD from a top-tier university
+@req 1-3 years of research experience in high-frequency trading
+@req A strong background in mathematics and statistics
+@req Proficiency in back-testing, simulation, and statistical techniques (auto-regression, auto-correlation, and Principal Component Analysis)
+@req Solid data-mining and analysis skills, including experience dealing with a large amount of data/tick data
+@req Familiarity with signal generation and statistical models
+@req Strong programming skills in C++, MATLAB, and R
+@des Position Description
+@des This position is in the data science team under the Advertising Technology organization. The mission of the Advertising Technology organization is to advance Walmart eCommerce by driving higher value for our customers and vendor partners. Walmart is investing in building a world class advertising platform and the Ads team is responsible for defining and performance advertising products that drive discovery, sales and profits. The team operates an end to end advertising platform that includes a scalable ad service that serves hundreds of millions of impressions each day, sophisticated ad matching algorithms, real-time reports, self-service interface for end to end program management etc.
+@des We are a highly motivated group of Big Data Geeks, Data Scientists and Applications Engineers, working in small agile group to solve sophisticated and high impact problems. We are building smart data systems that ingest, model and analyze massive flow of data from online and offline user activity. We use cutting edge machine learning, data mining and optimization algorithms on ad relevance, ranking and campaign optimization.
+@des Join us if you want to be spending your time on:
+@des Gathering and analyzing data, identifying modeling and optimization problems, devising solutions and building prototypes;
+@des Formulating machine learning/statistical approaches while paying attention to business metrics, designing features from the rich data available from many sources, training, evaluating, and deploying models;
+@des Researching and implementing methodologies to measure the impact of the technologies;
+@des Initiating and proposing unique and promising modeling projects, developing new and innovative algorithms and technologies, pursuing patents where appropriate;
+@des Developing high-performance algorithms for precision targeting, user engagement prediction, and ad relevance/ranking; testing and implementing these algorithms in scalable, product-ready code; interacting with other teams to define interfaces and understanding and resolving dependencies;
+@des Staying current on published data mining, machine learning and modeling techniques and competing technologies and sharing these findings with scientists and engineers in the organization;
+@des Maintaining world-class academic credentials through publications, presentations, external collaborations and service to the research community.
+@req Minimum Qualifications
+@req Masters or equivalent degree in a computational science with 4+ years of experience in Machine Learning/Statistics/Data Science;
+@req Experience with traditional as well as modern machine learning/statistical techniques, including Regression, Classification, Regularization, Ensemble Methods, and Neural Network;
+@req Strong implementation experience with high-level languages, such as Python, R, Perl, Ruby, Scala or similar scripting languages;
+@req Familiarity with Linux/Unix/Shell environments;
+@req Strong hands-on skills in sourcing, cleaning, manipulating and analyzing large volumes of data;
+@req Strong written and oral communication skills.
+@req Additional Preferred Qualifications
+@req Ph.D. in a computational science with an emphasis in Machine Learning;
+@req Experience in online advertising, recommender system, ecommerce or relevant areas;
+@req 2+ years of experience of writing production quality code;
+@req Experience with end-to-end modeling projects emerging from research efforts;
+@req Excellent academic or industrial track record of proposing, conducting and reporting results of original research, plus collaborative research with publications;
+@req Knowledge of data processing on Hadoop programming environments (e.g. Spark/Hive/Pig).
+@des This job exists to: set up and maintain our EPM. This position will support Billing, Coding and Finance.
+@des ESSENTIAL DUTIES AND RESPONSIBILITIES:
+@des General Leadership
+@des • Collaborate with Finance, Accounting, Billing and Coding to ensure the system is set up and maintained in the best way to fit Clinica’s needs.
+@des • Maximize System utility
+@des • Streamline and improve EPM workflows
+@des • Providing exceptional customer service to internal and external customers External Reporting& Compliance
+@des • Ensure system is set up to meet and comply with state and federal billing regulations.
+@des • Continuous Improvement Projects
+@des • Seeking opportunities to improve NextGen Software functions, Billing and Coding processes such as those to:
+@des o Increase system efficiency
+@des o Decrease manual workflows
+@des o Increase reimbursement
+@des o Increase accuracy (Quality)
+@des • Serves as Internal NextGen Support.
+@des • Troubleshoot and resolve issues with EPM. Refer calls beyond technical scope to EPM, E.H.R., EDR managing partners or vendors.
+@des • Encourages innovation and process improvement within the Finance team.
+@des • Complies with all guidelines established by the Centers for Medicare and Medicaid (CMS) and guidelines set forth by other regulatory agencies, where applicable. Participates in the development and implementation of insurance billing procedures.
+@des • Collaborates with the Billing and Coding teams to assure the system is set up and maintained in order to maximize revenue within corporate compliance.
+@des • Contributes to additional training projects and special projects as required
+@des • Prepares reports as needed and summarize information to verify accuracy as requested.
+@des • Participate in system upgrade for EPM
+@des • Maintain a positive attitude and fun work environment for fellow staff resulting in teamwork and productive collaboration with the site Operations and Clinical teams Operational Objectives
+@des OTHER DUTIES AND RESPONSIBILITIES
+@des • Maintain a safe work environment by remaining informed of and compliant with the clinic’s safety policies, and in particular by application of safe practices in area of own responsibility.
+@des • Compliance:
+@des o Knowledgeable of and compliant with all laws and regulations governing area of responsibility.
+@des o Responsible for reporting any potentially non-compliant conduct.
+@des o Cooperate fully with our Compliance Officer in upholding our Compliance Plan.
+@des • Serve as a resource in on-going support of staff using EPM. Assist in the evaluation and implementation of upgrades and assure a smooth transition to these new systems.
+@des • Train Finance staff in EPM, partner with other departments for training as needed.
+@des • Generate reports as needed to improve the revenue cycle and ACO Program performance.
+@des • Generate reporting for quality incentive opportunities.
+@des • Is part of the Finance team and partners with members of the team in strategic planning processes and implementation.
+@des • Serves as liaison for Billing, Coding, Clinical Services, Training EHR, ACO and IT, troubleshooting and resolving issues.
+@des • Participates on committees and in meetings as directed by their Manager.
+@des • Perform other duties and responsibilities, including billing, as required.
+@des SUPERVISION: No
+@des SCOPE OF AUTHORITY: Progress is reviewed quarterly and results are measured and formally evaluated annually.
+@req POSITION QUALIFICATIONS:
+@req A. Education / Experience:
+@req • Associates degree in Computer science or equivalent training and job-related experience required.
+@req • 3 years of medical billing and coding experience preferred.
+@req • Community Health Center experience preferred.
+@req • EPM Certification a plus.
+@req • Experience with NextGen EHR and EDR a plus.
+@req B. Knowledge, skills and abilities:
+@req • Office skills including typing, accounting, 10 key entry, and computer terminal usage required.
+@req • Ability to communicate to up line and down line staff in a professional and succinct manner.
+@req • Basic understanding of ICD-9, ICD-10 Medical Coding and Current Procedural Terminology (CPT), Current Dental Terminology (CDT), HCPCS, is required.
+@req • Basic knowledge of medical terminology, abbreviations, techniques; anatomy and physiology; major disease processes; pharmacology; and the metric system to perform daily functions.
+@req • Solid understanding of Medicaid, Medicare, Commercial insurances and other payers required.
+@req • Microsoft Office required.
+@req • Organizational, analytical, decision making, creative thinking, time management, problem solving and interpersonal skills.
+@des This position will leverage data management and risk management skills to assist IFG Companies in the evaluation and management of property and liability exposures. The position will be responsible for developing building, validating, and maintaining catastrophe exposure data; evaluating the catastrophe risk profile of individual property accounts; assisting in the evaluation and development of portfolio catastrophe risk management reports and assisting when needed on other risk management activities. The position will work closely and will provide support to underwriters within IFG Companies’ Property and Liability units.
+@des POSITION RESPONSIBILITIES
+@des Validating the quality and integrity of property exposure data and performing pre-processing modeling activities; including data consistency checks. Identify and automate workflows so as to build a unified consistent data collection mart.
+@des Working with IFG Companies’ technology group to ensure data uniformity within the catastrophe risk modeling and rate making processes.
+@des Supporting requests from underwriters to assess, evaluate and price catastrophe risk through the use of catastrophe risk model results.
+@des Supporting the Actuarial unit in providing catastrophe risk reporting and effectively managing reinsurance programs.
+@des Performing and Analyzing account and portfolio level catastrophe risk model runs.
+@des Planning and organizing information with problem solving, decision making skills. Use of statistical models using R and Python is a plus.
+@des Effectively communicate catastrophe exposure and risk analysis with the ERM and Underwriting teams.
+@des Assist the ERM unit in performing operational risk review on people, processes, controls and systems.
+@des Assist in the implementation and monitoring of IFG Companies’ risk limits.
+@des Perform other duties as required.
+@req KNOWLEDGE / SKILLS / ABILITIES
+@req Ability to demonstrate planning and organizational skills.
+@req Strong computer skills (Excel|Word|SQL) with demonstrated high accuracy output.
+@req Experience with Python or R is a plus.
+@req Excellent interpersonal and written/oral communication skills.
+@req Excellent attention to detail.
+@req EDUCATION / EXPERIENCE / CERTIFICATIONS
+@req 4 year degree in statistics, mathematics, actuarial science, economics, risk management or finance from an accredited college or university.
+@req 2-3 years’ pf experience in Data Analytics or Risk Analysis is required.
+@req Background in Insurance is a plus.
+@des Primary Purpose
+@des Evaluates, collaboratively advances, and documents complex business process improvements that parallel overall company and departmental strategies related to data.Supports the development and understanding of business requirements for business intelligence, reporting and data analysis needs.
+@des Essential Functions and Responsibilities
+@des (Other duties may be assigned)
+@des ·Assists Product Owner (PO) and business departments with eliciting user stories and acceptance criteria (for business intelligence, reporting and data analysis needs) in a manner that seeks to improve existing business processes.Places focus on the business value to be delivered.Assists PO with creation, prioritization, and maintenance of user stories.
+@des ·Gather and document requirements from the business and technical users and translating those requirements into user stories that will result in efficient solutions to meet the customer’s needs.
+@des ·Produce high-quality output consistent with team and industry standards.
+@des ·Possess substantial knowledge and familiarity with data warehousing, ETL concepts, wide range of reporting solutions within a relational and dimensional framework and have discernment skills to consult/select the most appropriate solution for use case.
+@des ·Serve as a liaison with the business community around the usage of BI tools, visualization and reporting best practices.
+@des ·Plans and accomplishes goals and responsibilities according to timelines provided by relying on substantial experience and judgement.
+@des ·Reviews user stories and acceptance criteria to ensure full understanding of deliverables and identification of test requirements.
+@des ·Defines, implements data testing systems.This includes planning, creating, evaluating and tracking testing results.
+@des ·Troubleshoot issues with reports and data; works with business users, developers, architects to report, resolve defects and prevent further issues.
+@des ·Solves problems with a wide degree of creativity and latitude.
+@req Qualifications
+@req To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skills, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+@req Required:
+@req Associate's Degree in computer science/business related discipline with a minimum of 4 years of work experience related to information systems and/or data analysis or2-year degree with a focus on information systems or business-related discipline and a minimum of six years’ experience related to business analysis and/or business intelligence-related responsibilities.
+@req Experience gathering and writing detailed business requirements and/or user stories.
+@req A passion for delivering high-quality solutions/software and a drive to constantly improve and evolve processes.
+@req Experience working within a project-management environment.
+@req Solid command of written and verbal communication, and the ability to interpret the needs of the end user against the capabilities of available technology.
+@req Excellent analytical and problem-solving skills.
+@req Proficient skills in BI reporting tools to create reports, dashboards and analytics.
+@req Proficient level understanding of SQL.
+@req Experience with relational databases
+@req Demonstrated strong desire to learn new technical tools, techniques, and processes to support the data analytical needs of the enterprise.
+@req An aptitude for Information Systems, Databases, BusinessIntelligence concepts, and a general understanding of a DataWarehouse structure.
+@req Ability to work well independently and as part of a team.
+@req Preferred:
+@req Bachelor’s degree in information systems or a business-related discipline.
+@req Five or more years of experience working as a Data Analyst or related position.
+@req Advanced skills in BI reporting tools to create reports, dashboards and analytics.
+@req Three or more years of insurance industry experience.
+@req Experience working in an agile environment.
+@req Experience with Microsoft Azure DevOps, Azure Test Plans and Teams.
+@req Mentoring and coaching experience in a technical environment.
+@req Familiarity with insurance support applications, which may be supplied by internal or external vendors.
+@req Continued insurance and/or IT coursework.
+@des Position Description
+@des As part of the newly created Data Strategy and Enablement Team (DS&E), this role will be an enabler of our journey to be the worlds leading data-driven retailer. As part of this transformation, we are seeking an individual who will be responsible for establish robust data pipelines and services including both in house developed data enabling services and systems integrations across the DS&E team to ensure we our technical deliverables meet and exceed the quality expectations.
+@des We are looking for a highly motivated, resourceful, team-oriented individual to drive the data engineering process. You are exceptionally talented Data engineer with an outstanding track record of working with very large data sets and building robust ETL pipelines for data acquisition for internal systems and external data sources. You will be modernizing and improving the data acquisition infrastructure from the ground up. You will be working with structured/unstructured Data sets, building large scale Data processing platforms, implementing world class data governance and operational controls, solving complex performance challenges.
+@des The Data Engineer role will report up to the Lead Data Engineer/Senior Manager Data Engineering
+@req Minimum Qualifications
+@req - Play a pivotal design and hands on implementation role in improving the Data infrastructure in a project-oriented work environment.
+@req Influence cross functional architecture in sprint planning
+@req Gather and process raw data at scale from internal and external data sources and expose mechanisms for large scale parallel processing
+@req Design, implement and manage a near real-time ingestion pipeline into a data warehouse and Hadoop data lake.
+@req Process unstructured data into a form suitable for analysis and then empower state-of-the-art analysis for analysts, scientists, and APIs
+@req Solve complex SQL and Big Data Performance challenges.
+@req Mitigate Risks in our data infrastructure by developing the best in class tools and processes.
+@req Implement controls, policies, processes and best practices in the Data Engineering space.
+@req Evangelize an extremely high standard of code quality, system reliability, and performance.
+@req Help us improve our database deployment and change management process.
+@req Provide reliable and efficient Data services as part of the global data team.
+@req Work closely with the team on development best practices and standards.
+@req Be a mentor.
+@req Who you are:
+@req You have prior experience with leading data engineering efforts across a variety of data systems
+@req You have deep understanding of commercial data sources and understand database concepts and terminology
+@req You have a demonstrated track record of handling multiple complex sourcing projects and delivering results in the data engineering area
+@req You have strong SQL experience and the ability to work on multiple aspects of a data projects including ETL, tools integrations, data results and APIs.
+@req You are a team player, with the courage to drive change through disruption while maintaining a respect for the team
+@req Requirements:
+@req Very Strong engineering skills. Should have an analytical approach and have good programming skills.
+@req Provide business insights, while leveraging internal tools and systems, databases and industry data
+@req Minimum of 5+ years experience. Experience in retail business will be a plus.
+@req Excellent written and verbal communication skills for varied audiences on engineering subject matter
+@req Ability to document requirements, data lineage, subject matter in both business and technical terminology.
+@req Guide and learn from other team members.
+@req Demonstrated ability to transform business requirements to code, specific analytical reports and tools
+@req This role will involve coding, analytical modeling, root cause analysis, investigation, debugging, testing and collaboration with the business partners, product managers other engineering team
+@req Experience working with large data sets, experience working with distributed computing (MapReduce, Hadoop, Hive, Pig, Apache Spark, etc.) and platforms such as HDP, Cloudera etc.
+@req Strong Hadoop scripting skills to process petabytes of data
+@req Experience in Unix/Linux shell scripting or similar programming/scripting knowledge
+@req Real time data ingestion (Kafka)
+@req Experience in ETL/ processes with exposure to one or more tools such as Nifi, Talend, Informatica, SSIS etc.
+@req Additional Preferred Qualifications
+@des Position Description
+@des Demonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plans
+@des Develops analytical models to drive analytics insights
+@des Leads small and participates in large data analytics project teams
+@des Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity
+@des Participates in the continuous improvement of data science and analytics
+@des Presents data insights and recommendations to key stakeholders
+@des Provides and supports the implementation of business solutions
+@req Minimum Qualifications
+@req 3 + years of data science experience; MS or PhD degree
+@req Additional Preferred Qualifications
+@req 4 years experience with SQL and relational databases (for example, DB2, Oracle, SQL Server).
+@req 4 years experience with statistical programming languages (for example, SAS, R).
+@req Bachelor's degree in Statistics, Economics, Analytics, Mathematics and 7 years experience in an analytics related field.
+@req Certificate in business analytics, data mining, or statistical analysis.
+@req Doctoral degree in Statistics, Economics, Analytics, or Mathematics and 1 year experience in an analytics related field.
+@req Master's degree in Statistics, Economics, Analytics, or Mathematics and 3 years experience in an analytics related field.
+@des Company Summary
+@des The Walmart eCommerce team is rapidly innovating to evolve and define the future state of shopping. As the worlds largest retailer, we are on a mission to help people save money and live better. With the help of some of the brightest minds in technology, merchandising, marketing, supply chain, talent and more, we are reimagining the intersection of digital and physical shopping to help achieve that mission.
+@des Position Summary
+@des Demonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plans
+@des Develops analytical models to drive analytics insights
+@des Leads small and participates in large data analytics project teams
+@des Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity
+@des Participates in the continuous improvement of data science and analytics
+@des Presents data insights and recommendations to key stakeholders
+@des Provides and supports the implementation of business solutions
+@des Start your job application: click Apply Now
+@des Job Title: Data Scientist (Risk)
+@des Location: Orlando, Florida
+@des Manager: Head of Data Science
+@des About LSQ
+@des LSQ is a technology-driven provider of accounts receivable financing to companies who need working capital but may not be able to obtain sufficient financing from their bank. Our focus is to help businesses release the liquidity tied up in their accounts receivable. With financing from LSQ, a business can purchase more inventory, fill more orders, and take advantage of new growth opportunities. Our technology and data driven approach to providing working capital, along with our accounts receivable management services, allows our clients to driving business success.
+@des Job Overview
+@des LSQ is searching for a Data Scientist (Risk) to join our growing team of analytics experts. The hire will be responsible for building data driven tools to automate and scale risk decisions decision points include, fraud detection, commercial credit analysis, and invoice payment behavior. The ideal candidate is an experienced researcher and data wrangler who enjoys applying complex theories to solve real world business problems. The Data Scientist will need to collaborate effectively with both technical (engineers, data experts) and non-technical (business users) colleagues to bring the data to life.
+@des Responsibilities of Data Scientist (Risk)
+@des We have 20+ years of real-world commercial data weve observed businesses and their interactions with other businesses across market cycles, industries, and catastrophic events. Build risk tools that optimize for velocity and scale.
+@des Build risk tools that optimize science & art you will work with risk experts who have been in the trenches (and learned from losses). Augment human decisions with machine.
+@des Lay the foundation for scale. A data science framework for optimal data acquisition, model training and deployment. Dont take short-cuts. Bring quantitative and statistical rigor to your body of work.
+@des Lead by example. You are joining a data team at ground-level. Building and inserting a data team, into a 20+ year old company (organism) will be hard, but rewarding.
+@req Qualifications for Risk Data Scientist
+@req Curiosity, Grit, and Humility
+@req 5+ years of experience of hands-on data science role
+@req Previous experience of building commercial finance risk tools should be beneficial, but not required
+@req Bachelor or Masters degree in Data Science, Operations Research, Computer Science, Industrial Engineering, Statistics, or another quantitative field
+@req A toolkit of modern data science techniques
+@req Experience with any data science tools/packages: Python, R, SAS, XGBoost, TensorFlow, NLTK
+@req Experience with any big data tools: Hadoop, Spark, Kafka, Data Bricks
+@req Experience with any reporting tools: Tableau Server, Power BI, SSRS, Excel
+@req Experience with any AWS cloud services: EC2, EMR, RDS, Redshift, Aurora, S3
+@req Experience with any Stream-processing systems: Storm, Spark-Streaming
+@des Position Type and Expected Hours of Work:
+@des This is a full-time position. Days and hours of work are Monday through Friday, 8:00 a.m. to 5 p.m. Occasional evening and weekend work may be required as job duties demand.
+@des Physical Demands:
+@des While performing the duties of this job, the employee is regularly required to sit and use hands to finger, handle, or feel. The employee is frequently required to reach with hands and arms and talk or hear. The employee is occasionally required to stand; walk and stoop, kneel, crouch.
+@des Travel:
+@des There will be minimal travel required for this position.
+@des LSQ is an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived, race, religion, color, sex (including pregnancy and gender identity), sexual orientation, parental status, national origin, age, disability, family medical history or genetic information, political affiliation, military service, any other non-merit based factor or any other characteristic protected by applicable federal, state or local laws. Our leadership team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment. If youd like more information about your EEO rights as an applicant under the law, please click here http://www1.eeoc.gov/employers/poster.cfm
+@des To apply to this job, click Easy Apply
+@des We have an outstanding opportunity for a Director of Data Intelligence. The role will offer the candidate the opportunity to lead our team of Data Scientists in employing advanced analytics in our production environment. The team utilizes Big Data techniques, Machine Learning and other AI methodologies, Predictive Analytics, and Business Intelligence to unleash industry leading insights for the Energy Markets.
+@des The ideal candidate has the ability to see solutions in sprawling data sets and to rally a strong team of data scientists to deliver these solutions into products. They will understand the right approach for a given data problem using AI, ML, statistical or other techniques. The Director of DI will work closely with leaders across product technology and product groups to implement high-quality, data-driven decisions. They will ensure model and data accuracy and consistent reporting by designing and creating optimal processes and procedures for data scientists to follow. They will use advanced data modeling, predictive modeling and analytical techniques to generate business insights from a diverse set of data.
+@des Responsibilities :
+@des Responsible for the end-to-end development and deployment of a broad set of production models.
+@des Product development from concepts to end user delivery.
+@des Lead cross-functional projects using advanced data modeling, analysis and optimization techniques.
+@des Build, develop, deploy and maintain data models, reporting systems, data automation systems, dashboards and performance metrics support that support key business decisions.
+@des Recruit, train, develop and supervise a collaborative team in an Agile environment.
+@des Leverage ML/statistical and software testing techniques to monitor and ensure accuracy of data and deliverables
+@des Develop and implement quality controls and departmental standards to ensure quality standards, organizational expectations, and regulatory requirements.
+@req Qualifications:
+@req Knowledge of data mining principles: predictive analytics, mapping, collecting data from multiple data systems on premises and cloud-based data sources.
+@req Strong database skills with SQL and NoSQL environments
+@req Understanding of and experience using analytical concepts and statistical modeling techniques to solve commercial data analysis
+@req Strong problem solving, quantitative and analytical abilities.
+@req Strong ability to plan and manage numerous processes, people and projects simultaneously.
+@req Excellent communication, collaboration and delegation skills.
+@req At least 5 years of experience in a position in data science and analytics, at least 3 years of experience leading a team.
+@req Technical Skills:
+@req Strong programming skills (Python, Scala, R), and query languages: SQL, CYPHER
+@req Experience with big data pipeline tools and environments: Hadoop, Kafka, Spark
+@req Experience with Data Science tools: Databricks, TensorFlow/Keras, Jupyter notebooks
+@req Cloud environments: AWS and Azure
+@req CI/CD and DevOps tools and environments: git, github.com/gitlab.com, Jenkins, unit testing frameworks.
+@req C, C++, Java, NodeJS, or other programming languages a plus.
+@des To apply to this job, click Apply Now
+@des Overview:
+@des Blazing a new trail, we are further developing our Insight Marketing team to include the data science discipline. We are looking for candidates who love learning, questioning the status quo, and finding data-backed ways to "do-it better''. We need a self-starter to tackle algorithmic modeling, what-if analysis, attribution, and more. Your work will be on the front-edge of one of the most innovative Automotive advertisers (rated "Genius" by L2 think tank). As we continue to develop our big data team you will wear many hats and will be responsible for a fair amount of trail blazing. You will function as a combination of a data scientist, data engineer, and project manager. Together, you and your trusty Junior Data Analyst, will accomplish many things.
+@des Purpose:
+@des The Data Scientist position requires a multidisciplinary approach to technology, business, and marketing applied together to unlock insights hidden within our marketing data. You'll use your talent for breaking down business challenges into data-driven problems that guide performance gains for one of the world's largest Automotive manufacturers. You will create predictive and prescriptive models by detecting and exploiting patterns in massive data sets. You will also create data visualizations and give presentations that will help key stakeholders in the decision making process.
+@req Desired Qualifications:
+@req We need people that feel comfortable across the entire spectrum of data science, from collaborating across teams and brainstorming on the whiteboard, all the way to implementing and testing their models. If you are detail oriented and passionate about leveraging data, statistics, and improving client outcomes, this position is for you.
+@des Responsibilities:
+@des Perform exploratory data analysis
+@des generate and test working hypotheses in a cross-silo collaborative environment
+@des Prepare and analyze historical data and identify patterns
+@des Demonstrate expertise in deriving insights from structured, semi-structured, and unstructured datasets
+@des Must have developed and deployed data-backed solutions in the domain of marketing
+@des Designing and implementing your own algorithms and data structures
+@req Other Qualifications:
+@req Experience manipulating big and noisy data sets (e.q. SQL, server log file)
+@req Experience working in big data framework (Hadoop, NoSQL, BigQuery, etc)
+@req Experience and knowledge of data storage, data management, and big data processing tools preferred
+@req Strong background in statistics
+@req Experience with scripting and rapid prototyping using python
+@req Data mining experience (using python/pandas)
+@req Experience with Machine learning
+@req Knowledge of data visualization tools (tableau, datastudio, matplotlib)
+@req Microsoft Office - Excel, PowerPoint, Word expert proficiency
+@req The responsibilities are many, various, and not limited to those written in this document.
+@req Required Skills
+@req Required Experience
+@des Job Location
+@des Fort Lauderdale, US-FL
+@des Start your job application: click Apply Now
+@des What you’ll be doing...
+@des This is a key role within our Roaming Finance & Systems Programming team. Under minimal supervision and as an individual contributor, you will perform advanced data analysis and modeling. The majority of the functions performed will be to support the daily, monthly, and ad-hoc functions within the roaming financial organization.
+@des Researching issues to resolution, strategic project support, analytical assignments, and designs reporting.
+@des Data analysis and modeling, including the design, development, implementation and validation.
+@des Utilizing enhanced BI visualization tools, such as Qlik or Tableau.
+@req What we’re looking for...
+@req You will need to have:
+@req Bachelor’s degree or four or more years of work experience.
+@req Three or more years of relevant work experience.
+@req Experience with Microsoft products, including Excel.
+@req Data management, analysis and visualization skills.
+@req Experience in data mining; Teradata and using SQL queries to extract data for use in analysis and presentations.
+@req ven better if you have:
+@req Bachelor’s degree in business, marketing, information systems, analytics/business intelligence, engineering, mathematics, statistics, other relevant discipline or four or more years of relevant work experience.
+@req Experience in data mining using Microsoft SQL Server database environments with Structured Query Language (SQL).
+@req Experience investigating and solving complex technical problems and data discrepancies. and Microsoft SQL Server database environments with Structured Query Language (SQL).
+@req Data management, analysis and visualization skills including knowledge of BI/BA platforms and visualization tools such as Qlik or Tableau.
+@req Experience using advanced SQL queries to extract data for use in analysis and presentations.
+@req Knowledge of cellular roaming and roaming data repositories.
+@req Experience with analytical and statistical interpretation of quantitative data.
+@req Knowledge of Python, R or other languages for scripting and more advanced analyses.
+@req Experience in database administration (DBA).
+@req Experience implementing change requests to existing databases and verifying structure and data integrity as well as manage SDLC change ticket process by coordination with reporting team and EDW DBA team.
+@req Design, build, and maintain data models to support financial reporting analytics.
+@req Experience in process and requirements documentation.
+@req Excellent presentation, facilitation, and communication skills, both oral and written.
+@req Ability to communicate effectively to both technical and non-technical teams.
+@req Strong interpersonal, influencing, and organizational skills.
+@req Ability to work with various/complex stakeholder groups and functions, and various levels of management.
+@req Willingness to travel occasionally.
+@des When you join Verizon...
+@des You’ll have the power to go beyond – doing the work that’s transforming how people, businesses and things connect with each other. Not only do we provide the fastest and most reliable network for our customers, but we were first to 5G - a quantum leap in connectivity. Our connected solutions are making communities stronger and enabling energy efficiency. Here, you’ll have the ability to make an impact and create positive change. Whether you think in code, words, pictures or numbers, join our team of the best and brightest. We offer great pay, amazing benefits and opportunity to learn and grow in every role. Together we’ll go far.
+@des Equal Employment Opportunity
+@des We're proud to be an equal opportunity employer - and celebrate our employees' differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. Different makes us better.
+@des To apply to this job, click Apply Now
+@des Master Electronics has an exciting career opportunity for aData Scientist that will report to the Vice President of Data Science in Phoenix, AZ. The position involves modeling complex business problems, uncovering insights, and identifying growth opportunities using data science, machine learning, artificial intelligence, data mining, visualization, and statistical analysis. Candidates will collaborate with cross functional teams and external partners to discover and model operational efficiencies that will enable Master Electronics to better serve its customers.
+@des Candidates should be able to effectively answer a wide variety of high business impact questions, while presenting key data science and quantitative insights in a concise and effective manner to a variety of audiences. The candidate must have a high degree of creativity and independence, using a variety of data science algorithms, integrating a wide number of structured and non-structure data sources, with significant Python software development skills, to model and simulate effective solutions to challenging business issues.
+@des How you will spend your time:
+@des Effectively partner with teams to build prediction models to forecast sales, product demand and performance
+@des Build or select the correct algorithms to model customer behavior, purchases, and recommendation systems
+@des Use predictive analytics, machine learning, and artificial intelligence to solve complex business problems
+@des Use descriptive analytics to create reports, dashboards, and pivots to quantify historical performance
+@des Independently solve analytical problems, effectively communicating results to non-technical audiences
+@req We’re excited if you have:
+@req Undergraduate degree from an accredited university in data science, supply chain management, computer science, mathematics/physics, machine learning, operations research, applied to business decision making
+@req 3+ years professional experience in modeling and statistical analysis of large (3+ terabytes) data sets
+@req 3+ years of experience working using AWS SageMaker, Microsoft SQL Server and Microsoft Power BI
+@req Track record working in large (3+ terabytes) scale databases, data marts, and data warehouses
+@req Proven Python 3 experience developing data science models using Machine Learning and AI
+@req We would prefer you have:
+@req Graduate degree from an accredited university in data science, supply chain management, computer science, mathematics/physics, machine learning, operations research, applied to business decision making
+@req Track record leading and delivering on the design and execution of data science projects
+@req Experience in several of the following areas: statistics, machine learning, recommendation systems, and AI
+@req Deep Python 3 and SQL scripting skills; Functional knowledge of AWS platforms such as S3, Glue, Sagemaker
+@req Advanced skills in Python, Machine Learning, AI, Statistical Modeling, SQL, Data Warehouses, and Hadoop
+@req Extensive Python experience using Sci-Kit, TensorFlow, Matplotlib, Numpy, Pandas, Seaborn, Beautiful Soup
+@des Why Master Electronics:
+@des As a customer focused and driven organization, we offer attractive, competitive compensation with an increase after the 1st and 2nd year of employment in the distribution center and benefits including, medical, dental, life, paid time off, 401k match and an EAP program as well as an opportunity to grow with the company.
+@des Master Electronics has a fast-paced and entrepreneurial environment, which requires a professional, flexible self-starter attitude.
+@des Headquartered in Phoenix, AZ, Master Electronics is a leading global authorized distributor of electronic components. For more than half a century, our family-owned company has remained focused on strong relationships, responsive service and added value. This is howMaster Electronics has grown to serve hundreds of thousands of customers in partnership with hundreds of world-class suppliers.
+@des Master Electronics, a leading global authorized distributor of electronic components, is committed to providing equal employment opportunities for all applicants and employees. The Company does not unlawfully discriminate on the basis of race, color, creed, pregnancy, religion, sex, national origin, age, disability, veteran, marital, or any other protected status. The Company also makes reasonable accommodations for disabled employees. Finally,Master Electronics prohibits the harassment of any individual based on their protected status. This policy applies to all areas of employment, including recruitment, hiring, training, promotion, compensation, benefits, transfer, and social and recreational programs.
+@des Apply Now: click Apply Now
+@des Position Description
+@des A Staff Data Scientist is responsible for analyzing large data sets to develop multiple custom models and algorithms to drive innovative business solutions. Staff Data Scientists work on large project teams in order to provide analytical support and guidance to an assigned area on for large projects (for example, email targeting, business optimization, consumer recommendations) within Walmart eCommerce. Staff Data Scientists are responsible for building large data sets from multiple sources in order to build algorithms for predicting future data characteristics. Those algorithms will be tested, validated, and applied to large data sets. Staff Data Scientists are responsible for training the algorithms so they can be applied to future data sets and provide the appropriate search results. Staff Data Scientists are responsible for researching new trends in the industry and utilizing up-to-date technology (for example, HBase, MapReduce, LAPack, Gurobi) and analytical skills to support their assigned project.
+@req Minimum Qualifications
+@req Experience with deep learning techniques like CNN, RNN, LSTM, etc.
+@req Understanding of Deep Reinforcement Learning
+@req Build complex data sets from multiple data sources, both internally and externally.
+@req Build learning systems to analyze and filter continuous data flows and offline data analysis.
+@req PhD in computer science or similar field with 3+ years of experience
+@req • Highly proficient in Python or Java
+@req • Extremely hands-on in building Machine Learning products
+@req • Experience in building data products and crunching terabytes of data
+@req • A good portfolio of machine learning projects with a significant impact on the bottom line
+@req • Experience in working as a tech lead
+@req • Blog posts, papers or conference talks showing your involvement in the community
+@req Additional Preferred Qualifications
+@req • Familiarity with Deep Learning
+@req • Contributions to open-source ML projects
+@des Company Summary
+@des The Walmart eCommerce team is rapidly innovating to evolve and define the future state of shopping. As the worlds largest retailer, we are on a mission to help people save money and live better. With the help of some of the brightest minds in technology, merchandising, marketing, supply chain, talent and more, we are reimagining the intersection of digital and physical shopping to help achieve that mission.
+@des Position Summary
+@des A Staff Data Scientist is responsible for analyzing large data sets to develop multiple custom models and algorithms to drive innovative business solutions. Staff Data Scientists work on large project teams in order to provide analytical support and guidance to an assigned area on for large projects (for example, email targeting, business optimization, consumer recommendations) within Walmart eCommerce. Staff Data Scientists are responsible for building large data sets from multiple sources in order to build algorithms for predicting future data characteristics. Those algorithms will be tested, validated, and applied to large data sets. Staff Data Scientists are responsible for training the algorithms so they can be applied to future data sets and provide the appropriate search results. Staff Data Scientists are responsible for researching new trends in the industry and utilizing up-to-date technology (for example, HBase, MapReduce, LAPack, Gurobi) and analytical skills to support their assigned project.
+@des To apply to this job, click Apply Now
+@des Crossix is seeking intellectually curious, resourceful, and collaborative Data Scientists with experience in quantitative research methods and statistical sampling to join our Advanced Analytics team. This is an excellent opportunity to help us build the technology and data science products that power our business and be at the forefront of innovation in the healthcare technology space.
+@des The team is guided by its core values as it works to solve the most challenging problems in healthcare data and analytics:
+@des Singular Focus
+@des Speed
+@des Humility
+@des Ownership
+@des Challenge
+@des What You'll Do
+@des Leverage quantitative research experience to design and build nationally representative datasets
+@des Collaborate closely with a team of data scientists, product managers, and executives to discover and deliver product offerings from prototype to massive scale
+@des Rapidly build prototype product solutions, communicate findings, and iterate
+@des Explore and find meaning in high volumes of data to evaluate data quality and extract actionable insights that will help drive business decisions; execute data querying, data cleansing, and experiment design
+@des Draw from prior experience and technical expertise to identify product improvements and inform testing plans; break overall objectives down into underlying problems that can be prioritized and solved
+@des Master core parts of the Crossix technology platform. Technologies include Spark, SQL, Python, R, AWS, and proprietary data mining software
+@des Work with engineering and development teams to improve and implement features in Crossix's platform
+@req What You've Done
+@req Graduate level degree in statistics, social sciences, or other quantitative discipline with at least 2 years of work experience
+@req Expertise in quantitative and survey research methods, sampling, designing representative panels
+@req Advanced knowledge and professional experience in statistical modeling and data mining
+@req Strong problem-solving skills
+@req Strong hands-on coding skills in statistical modeling programing languages such as R and Python
+@req Advanced SQL skills; expertise in best practices and tools for interacting with large data sets
+@req Experience with AWS for data-warehousing and processing is a plus
+@req Excellent written and verbal communication skills
+@req Who You Are
+@req Have a desire and preference for working in a fast-paced, entrepreneurial environment
+@req Enjoy having clear ownership of a goal even if the path to get there is not entirely clear
+@req Have a curiosity to figure out new problems
+@req Are humble and truly think about the success of the group before your own contribution
+@req Are comfortable challenging existing norms, thinking and teammates, always doing so respectfully
+@des About the Team – Crossix is the market leader in delivering hard-to-come-by insights that enable healthcare marketers to plan, measure, and optimize their marketing campaigns with confidence. Using our own proprietary technology and network of health and non-health data, our analyses pinpoint the tactics, programs, and channels that improve performance and boost sales, enabling better healthcare communications. And we do it all while protecting consumer privacy.
+@des Leadership – With decades of combined experience and an unrivaled track record of healthcare innovation, our leadership team sets the standard for us. Their knowledge and expertise continually challenge us and the industry – through their work, their speaking engagements at conferences and their thought leadership published in the top industry publications.
+@des Culture – We know that our employees set us apart. Along with competitive salaries and benefits, we invest in creating compelling opportunities for professional development and career growth. We also believe that diversity is essential to building an environment where everyone can feel they belong. We're continuously building an inclusive company where everyone feels welcome and heard. Come join our rapidly growing team!
+@des We are an equal opportunity employer and welcome all qualified applicants regardless of race, color, religion, sex, gender identity, sexual orientation, marital status, ancestry, national origin, age, disability, genetic information, or veteran status.
+@des To apply to this job, click Apply Now
+@des Scan Based Trading Data Analyst Intern
+@des City
+@des Chambersburg
+@des State/Territory
+@des Pennsylvania
+@des Work Schedule
+@des M-F
+@des Job Brief
+@des Join our team as a Scan Based Trading Data Analyst Intern for Summer of 2020!!
+@des Come join our Team as a Scan Based Trading Data Analyst Intern for Summer of 2020! We started with pastries handmade by Lois and Lloyd Martin produced inside of a garage and we have boomed into a multi-facility company where our many products are produced by machines and shipped domestically and internationally. Talk about a rich history and exciting future! As an employer of choice we offer physical, emotional, financial and professional benefits including 401K, disability insurance and paid holidays.
+@des As an intern for Martin’s, you would be assisting with all aspects of Scan Based Trading (SBT).
+@des Essential Duties and Responsibilities: (Other duties as assigned.)
+@des Works with internal (i.e. sales, MIS, accounting teams) and external stakeholders to ensure smooth SBT rollouts.
+@des Verifies that all Point of Sale (POS) and SBT credit was properly given.
+@des Assists in identifying and resolving billing/pricing/shrink issues and resolve in a timely manner.
+@des Routinely analyzes and identifies shrink and regularly reports variances at the product, store, route level
+@des Analyzes historical sales SBT/POS data to look for inconsistencies and identify business risks
+@des Utilizes strong analytical skills to communicate discrepancies and suggest ways to resolve issues
+@des Identifies and recommends SBT improvements
+@des Reports on a periodic basis shrink settlements including exceptions and issues
+@des Compiles routine and ad hoc reports using various software tools
+@des Assists with coordinating SBT/POS communication of information between departments.
+@des Documents and maintains written instructions for all SBT processes
+@des Assists billing, accounts receivable, internal controls team when needed
+@des Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+@req Education and/or Experience:
+@req High School Diploma or GED;
+@req Pursuing a degree in Accounting, Finance or related area helpful;
+@des We are an Equal Opportunity Employer
+@des Apply Now: click Apply Now
+@des We are currently seeking a Sr. Subsurface Machine Learning Scientist.This position located in Pittsburgh, PA.
+@des Battelle is guided by a founding mission. We invest our knowledge, talents and resources, helping our customers achieve their most important goals. We apply scientific rigor and creativity, succeeding where others may fail, and we invest in our communities, making the world better for generations to come. All of us share a common purpose: to solve the greatest challenges of today and tomorrow.
+@des Our 22,000 employees work at the forefront of scientific innovation to tackle critical challenges in security, human health, manufacturing, energy and environmental management. Battelle’s work is grounded in the belief that science, technology and a passion for excellence can make industries more competitive and the world a better place.
+@des JOB SUMMARY
+@des The Senior Research will support the National Energy Technology Laboratory’s Science-Informed Machine Learning for Subsurface Applications (SMART) Initiative. This Senior Research will contribute to the research effort by working closely with other researchers. In addition, this position will use their experience in scientific problem-solving techniques, incorporating quick learning, teamwork and critical thinking related to sub-surface systems to lead these projects. This position will support the collaborative nature of the initiative through coordination of several partners including universities and other DOE National Laboratories as well contribute to the overall strategy and direction of the initiative. This position will work closely with program management, NETL researchers and senior fellows to ensure successful outcomes from the large, multi-disciplinary initiative.
+@des We are currently seeking Senior Subsurface Machine Learning Scientist located in Pittsburgh, PA.
+@des MAJOR RESPONSIBILITIES
+@des Exhibit a high degree of ingenuity, creativity and resourcefulness in the application of advanced technologies, principles, theories and concepts.
+@des Actively engage in outstanding research in an area of specialization.
+@des Act as a high-level technical resource to improve the quality of all projects in that area.
+@des Provide high-level strategic and/or technical advice to senior management.
+@des Assist line management in evaluating the technical performance of other staff.
+@des Enhance Battelle’s reputation in the area of specialization by publishing and presenting results of R&D activities.
+@req THE FOLLOWING IS REQUIRED
+@req Ph.D. in engineering, science or related degree.
+@req Experienced with applying machine learning and artificial intelligence for subsurface data sets.
+@req Experienced in complex multi-discipline problem solving techniques that require learning of new skills and techniques.
+@req Able to operate and excel in a multi-disciplinary environment comprised of engineers and scientists of varied backgrounds and skill levels.
+@req Builds relationships with internal and external clients who have varying backgrounds.
+@req Proven Scientific writing capabilities in a collaborative environment.
+@req Creates and delivers oral and poster presentations of results.
+@req THE FOLLOWING IS DESIRED
+@req Experience working with DOE National Laboratories and/or universities.
+@des LEGAL DISCLAIMER
+@des The above statements are intended to describe the nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, activities and skills required of staff members. No statement herein is intended to imply any authorities to commit Battelle unless special written permission is granted by Battelle’s Legal Department.
+@des BENEFITS
+@des Battelle’s competitive benefits program includes comprehensive medical and dental care, matching 401K, paid time off, flexible spending accounts, disability coverage, and other benefits that help provide financial protection for you and your family.
+@des Battelle provides employment and opportunities for advancement, compensation, training, and growth according to individual merit, without regard to race, color, religion, sex (including pregnancy), national origin, sexual orientation, gender identity, marital status, age, genetic information, disability, veteran-status, or any other characteristic protected under applicable Federal, state, or local law. Our goal is for each staff member to have the opportunity to grow to the limits of their abilities and to achieve personal and organizational objectives. We will support positive programs for equal treatment of all staff and full utilization of all qualified employees at all levels within Battelle.
+@des For more information about our other openings, please visit www.battelle.org/careers
+@des To apply to this job, click Apply Now
+@des Data Analyst/Sr Data Analyst
+@des At Liberty Mutual, technology isn't just a part of our business, it's what drives us forward. We deliver our customers peace of mind every day by helping them protect what they value most. Our passion for placing the customer at the center of everything we do is driving a transformational shift at Liberty Mutual. Operating as an Agile team within a Fortune 100 company, we are on the front edge of an IT transformation for how people work and deliver solutions.
+@des This is a range posting. The actual internal level/grade for this role will depend on the candidate's overall experience and skill level.
+@des GRM Information Management is actively searching for a highly productive member of a distributed, dynamic agile team to serve as a technical expert in analysis, design, coding, and testing innovative data warehouse reporting solutions and analytics. This position will support Customer, Prospect, Marketing & Digital within Business Data Solutions Engineering.
+@des Participates in the analysis and development of logical data base designs, data models and relational data base definitions across multiple computing environments. Assists in data management deliverables such as business need analysis, data source identification and analysis and data modeling techniques. Participates in the analysis and resolution of issues related to information flow and content with data stakeholders. Develops technical expertise in data modeling directions, methodologies, techniques and tools to ensure development of logical and relational data base designs which meet the needs of the business customers
+@des Responsibilities:
+@des Participates in the evaluation of business requirements.
+@des Transforms client requests into data deliverables to include data models, data mappings and data transformation rules.
+@des Contributes to the development of project plans for data deliverables. Depicts moderately complex to complex ideas, issues and data designs to varied audiences.
+@des Contributes to the development of project plans and supports development team throughout project lifecycle including during test phase; researches test issues and data content and assists with moderately complex problem resolution.
+@des Participates in the creation and implementation of new standards and procedures.
+@des Investigates components of new tools and techniques.
+@des Performs related duties as assigned or requested.
+@req Qualifications:
+@req Bachelor's Degree in a technical or business discipline or equivalent technical expertise. Generally, a minimum of 3 years related experience.
+@req General knowledge in the following areas; IT concepts, strategies and methodologies, IT architectures and data standards, and general knowledge of a business function(s) and of business operations. Extensive knowledge of data design and tools required. Proficiency in SQL and DBMS languages and tools; knowledgeable in new and emerging technologies. Good negotiation and communication skills.
+@des Benefits:
+@des We value your hard work, integrity and commitment to positive change. In return for your service, it's our privilege to offer you benefits and rewards that support your life and well-being. To learn more about our benefit offerings please visit: https://LMI.co/Benefits
+@des Overview:
+@des At Liberty Mutual, we give motivated, accomplished professionals the opportunity to help us redefine what insurance means; to work for a global leader with a deep sense of humanity and a focus on improving and protecting everyday lives. We create an inspired, collaborative environment, where people can take ownership of their work; push breakthrough ideas; and feel confident that their contributions will be valued and their growth championed.
+@des We're dedicated to doing the right thing for our employees, because we know that their fulfillment and success leads us to great places. Life. Happiness. Innovation. Impact. Advancement. Whatever their pursuit, talented people find their path at Liberty Mutual.
+@des To apply to this job, click Apply Now
+@des Overview
+@des Job Description Type of Opportunity: Full Time FTE: 1.000000 Exempt: Yes Work Schedule: Days
+@des Summary:Develop innovative & sophisticated analytics models in concert with other Directors within the Analytics Organization (AO) and in partnership with IT to support analytics/reporting needs of business leaders & fellow colleagues for the real time business decision making. Support optimization and enhancement of existing analytical models utilized by the PHS across the AO. Support development and testing of analytical prototypes and contribute to analytical solutions best practices. Develop the communication strategies and transitioning of solutions to other teams within the AO. Responsible for guiding, mentoring and supporting fellow junior scientist and other analytical talent across the AO.
+@des Responsibilities
+@des Responsibilities:*Provide support in creating/coding, designing and testing pilot data-driven predictive/descriptive analytical models for PHS.to solve business problems leveraging the latest and most appropriate technologies in statistical modeling and machine learning*Ability to work in a diverse team setting across the AO to develop, refine and scale data management and analytics procedures, systems, workflows, best practices and other issues.*Assist in risk identification and mitigation planning and communicate to analytical senior leadership of any issues/escalations & risks*Support management of multi-tasking, achieving milestones, deadlines, and maintaining customer relationships*Support and assist healthcare reporting/analytics system implementations throughout the project life-cycle, performing workflow analysis, testing, training, go-live, system upgrades and issues management in partnership with IT *Ability and experience to deal with very granular data available through various data storage platform (e.g., Hadoop) and summarize, interpret and translate the findings to the leadership promoting data-driven strategic decision making*Design and test structured data and algorithms to support clinical, operational and financial data analysis using advanced data-driven analytical methods from statistics, data mining, econometrics, and operations research*Design models for investigations of various acute/chronic clinical and/or operational and/or financial areas, including hypotheses generation and creating an analysis plan with appropriate primary and secondary data required, and evaluate results of the analysis and interpret conclusions, taking into consideration bias/data limitations as well as performing any specialized analysis required*Create and test optimization algorithms, forecasting and predictive models for patient level outcomes, utilization management, and overall medical services*Support design, build and test of population scoring, stratification and segmentation based on predicted risk of adverse utilization/clinical and financial outcomes*Synthesize findings and conclusions including efficacy of existing programs as well as incremental impact of new care inventions and interventions; design and institute appropriate metrics to assess progress vs. projected impact.*Routinize advanced analytical and reporting methods and techniques for broader use of the AO community*Work with large and complex datasets to derive and validate predictive models across clinical, operational and financial areas*Collaborate and partner with management, project managers, and IT to identify cases that can benefit from predictive analytics and other advanced statistical techniques*Visualize, interpret, report, and communicate data findings creatively in a various formats and audiences*Support advanced analytical and data mining efforts which could include but not limited to clustering, segmentation, logistic and multivariate regression, decision/CART trees, neural networks, time-series analysis, sentiment analysis, topic modeling, random forests, and Bayesian analysis *Support collaboration with other analytics stakeholder to define, gather requirements and build a pilot prototype BI tools*Provide support in designing and development of reusable analytical assets (data structures, code, solutions); test and improvise improvements to existing assets; and conduct evaluation of the suitability and value of potential new assets*Assist in developing training material and provide hands-on mentoring to analytical talent on the appropriate use and interpretation of new analytical models, integration of these models into existing business analyses as well as assure, maintain and improve efficiency and quality; validate work product of peers across the AO*Assist with the preparation of documents/publications and presentation materials describing analytic methods, observations and findings in the AO area *Contribute towards and assist Informaticists leadership in developing a year-end value story to demonstrate value of the team and their contribution to progress towards the AOs and PHSs goals.
+@req Preferred Qualifications:
+@req Evidence based care work
+@req Clinical analytics background
+@req Experience with Epic
+@req Statistical analysis background
+@req Experience with SAS, R, Python, Tableau
+@des Benefits
+@des Benefits Benefits are effective day-one (for .45 FTE and above) and include:
+@des Competitive salaries
+@des Full medical, dental and vision insurance
+@des Flexible spending accounts (FSAs)
+@des Free wellness programs
+@des Paid time off (PTO)
+@des Retirement plans, including matching employer contributions
+@des Continuing education and career development opportunities
+@des Life insurance and short/long term disability programs
+@des About Us Presbyterian Healthcare Services is a locally owned, not-for-profit healthcare system of nine hospitals, a statewide health plan and a growing multi-specialty medical group. Founded in New Mexico in 1908, it is the state's largest private employer with approximately 11,000 employees.
+@des Presbyterian's story is really the story of the remarkable people who have chosen to work here. Starting with Reverend Cooper who began our journey in 1908, the hard work of thousands of physicians, employees, board members, and other volunteers brought Presbyterian from a tiny tuberculosis sanatorium to a statewide healthcare system, serving more than 700,000 New Mexicans. We are part of New Mexico's history - and committed to its future. That is why we will continue to work just as hard and care just as deeply to serve New Mexico for years to come. About New Mexico New Mexico's unique blend of Spanish, Mexican and Native American influences contribute to a culturally rich lifestyle. Add in Albuquerque's International Balloon Fiesta, Los Alamos' nuclear scientists, Roswell's visitors from outer space, and Santa Fe's artists, and you get an eclectic mix of people, places and experiences that make this state great. Cities in New Mexico are continually ranked among the nation's best places to work and live @des by Forbes magazine, Kiplinger's Personal Finance, and other corporate and government relocation managers like Worldwide ERC. New Mexico offers endless recreational opportunities to explore, and enjoy an active lifestyle. Venture off the beaten path, challenge your body in the elements, or open yourself up to the expansive sky. From hiking, golfing and biking to skiing, snowboarding and boating, it's all available among our beautiful wonders of the west. AA/EOE/VET/DISABLED. PHS is a drug-free and tobacco-free employer with smoke free campuses.
+@des AD123
+@des Apply Now: click Apply Now
+@des Apply
+@des Description
+@des As a member of the Digital Solutions and Data and Analytics IT team, this person will be responsible for developing reports, dashboards, and self-service data analysis solutions to internal users as well as our customers, using a variety of technologies.
+@des This role demands a strong technical/design skillset for presenting data in a clear, insightful, user-focused way, as well as broader capabilities relating to understanding existing and in-development data models/schemas and the business context they represent.
+@des The visualization specialist will not just implement reports and dashboards via tools like Tableau and SQL Server Reporting Services (SSRS); they will also be responsible for designing them, utilizing technical best practices as well as their analytical skills to obtain a full understanding of underlying data and functional needs/requirements.
+@des Responsibilities
+@des Design and develop new reports and dashboards in Tableau and SSRS.
+@des Determine the appropriate tooling for development (Tableau, SSRS, Excel extracts, etc) based on your understanding of requirements and constraints as well as the team’s best practices/patterns.
+@des Develop necessary SQL (and other) queries for data ingestion to Tableau from SQL Server data marts/databases.
+@des Develop SQL queries for ad hoc reporting and data analysis needs.
+@des Understand the context and constraints of how ETL (SSIS) processes are executed to populate relevant datastores (you need not be experienced with SSIS/ETL; however, a high-level understanding is necessary to inform your designs/decision making.)
+@des Lead requirements analysis efforts relating to implementing new reports, dashboards and other visualizations, as well as periodic or ad hoc data extracts, via direct communication with technical and non-technical stakeholders.
+@des Maintain extensive existing set of SSRS reports:
+@des Troubleshoot SSRS reports when there are failures (evaluate cause, determine and test solution, implement solution) and provide communication to stakeholders during “outage” as well as document the situation after it is resolved to support retrospectives/knowledge sharing.
+@des Iteratively enhance SSRS reports and queries for performance improvement.
+@des Adjust reports when underlying data schemas change.
+@des Contribute to team knowledge sharing/training efforts.
+@des Develop a strong understanding of Intalere and customer data models/context.
+@des Provide subject matter expertise (technical and business context) input and feedback to data/BI teams and development scrum teams as needed.
+@des Identify, communicate, and mitigate BI/analytics risks, including invalid data, invalid data calculations, formulas or derived insights, and misrepresentation of or otherwise confusing visual representations of data.
+@req Requirements
+@req Technical
+@req 1+ years of experience designing data visualizations (components, reports, dashboards)
+@req 2+ years of experience implementing data visualizations (components, reports, dashboards)
+@req Experience with debugging, performance profiling and optimization of data visualization components, reports, and dashboards
+@req Demonstrated analytical capabilities paired with a strong initiative to find ways to improve the analysis and communication of complex data
+@req Specific experience with Tableau
+@req Candidates with extensive experience in other BI/reporting/analytics toolsets may be considered if they have a commitment to learning Tableau and a demonstrated ability to ramp up to proficiency rather quickly (2 months) in a primarily self-directed way
+@req Preference will be given to candidates with prior Tableau experience
+@req Specific experience with Microsoft SQL Server Reporting Services (SSRS) and SQL Server toolset
+@req Candidates with extensive experience in other BI/reporting/analytics toolsets may be considered if they have a commitment to learning SSRS and a demonstrated ability to ramp up to proficiency rather quickly (2 months) in a primarily self-directed way
+@req Preference will be given to candidates with prior SSRS experience
+@req Capable of designing complex and performant SQL queries
+@req Demonstrated ability to quickly learn/understand and discuss data models
+@req Professional
+@req Excellent interpersonal and organizational acumen with regard to collaborating with both internal team members and external business stakeholders
+@req Internally motivated, able to work proficiently both independently and in a team environment
+@req Strong written and verbal communication skills with staff and leadership at all levels of seniority and technical experience
+@req Bachelor’s Degree or higher (Computer Science, Engineering, Human Computer Interaction/Design, or similar/relevant field)
+@req Motivated to “stay current” with technical change/commit to professional development to learn relevant new skills/tools/methodologies
+@req Desired Additional Competencies:
+@req Experience with relational database design, SQL DDL, performance tuning relating to indexes, etc.
+@req Experience with non-relational “noSQL” data sources
+@req Experience with ETL processes and tools
+@req Healthcare industry experience not required but a significant plus (supply chain, provider, payer, medical device, life-science, pharmacy, etc.)
+@req Experience with other data/BI tools, especially within the Microsoft ecosystem (SQL Server Analysis Services (SSAS), Power BI, Power Query, DAX, R)
+@des Start your job application: click Apply Now

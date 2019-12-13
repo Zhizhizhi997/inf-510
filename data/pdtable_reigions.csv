@@ -1,0 +1,10 @@
+,REGION,DIVISION,STATES,api_sate
+0,Northeast,New England ,"Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont","['CT', 'ME', 'MA', 'NH', 'RI', 'VT']"
+1,Northeast,Middle Atlantic ,"New Jersey, New York, Pennsylvania","['NJ', 'NY', 'PA']"
+2,South,South Atlantic ,"Delaware, District of Columbia, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, West Virginia","['DE', 'DC', 'FL', 'GA', 'MD', 'NC', 'SC', 'VA', 'WV']"
+3,South,East South Central,"Alabama, Kentucky, Mississippi, Tennessee","['AL', 'KY', 'MS', 'TN']"
+4,South,West South Central,"Arkansas, Louisiana, Oklahoma, Texas","['AR', 'LA', 'OK', 'TX']"
+5,Midwest,East North Central,"Illinois, Indiana, Michigan, Ohio, Wisconsin","['IL', 'IN', 'MI', 'OH', 'WI']"
+6,Midwest,West North Central,"Iowa, Kansas, Minnesota, Missouri, Nebraska, North Dakota, South Dakota","['IA', 'KS', 'MN', 'MO', 'NE', 'ND', 'SD']"
+7,West,Mountain,"Arizona, Colorado, Idaho, Montana, Nevada, New Mexico, Utah, Wyoming","['AZ', 'CO', 'ID', 'MT', 'NV', 'NM', 'UT', 'WY']"
+8,West,Pacific,"Alaska, California, Hawaii, Oregon, Washington","['AK', 'CA', 'HI', 'OR', 'WA']"

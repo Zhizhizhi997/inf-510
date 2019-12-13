@@ -1,0 +1,54 @@
+,region,CPI_value
+0,U.S. city average,105.92
+1,Northeast,104.87
+2,New England,104.36
+3,Middle Atlantic,103.57
+4,Midwest,104.63
+5,East North Central,103.61
+6,West North Central,103.57
+7,South,105.05
+8,South Atlantic,104.42
+9,East South Central,102.53
+10,West South Central,103.01
+11,West,108.9
+12,Mountain,106.36
+13,Pacific,106.05
+14,"Cleveland-Akron, OH",100.97
+15,"Washington-Baltimore, DC-MD-VA-WV",101.31
+16,"Los Angeles-Riverside-Orange County, CA",102.71
+17,Size Class D,101.59
+18,Midwest - Size Class D,101.95
+19,South - Size Class D,100.86
+20,Size Class B/C,105.21
+21,Northeast - Size Class B/C,104.6
+22,Midwest - Size Class B/C,104.05
+23,South - Size Class B/C,104.6
+24,West - Size Class B/C,108.2
+25,Size Class A,106.53
+26,Northeast - Size Class A,105.07
+27,"Boston-Cambridge-Newton, MA-NH",107.05
+28,"New York-Newark-Jersey City, NY-NJ-PA",104.7
+29,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",103.87
+30,Midwest - Size Class A,104.8
+31,"Chicago-Naperville-Elgin, IL-IN-WI",104.53
+32,"Detroit-Warren-Dearborn, MI",106.17
+33,"Minneapolis-St.Paul-Bloomington, MN-WI",104.09
+34,"St. Louis, MO-IL",102.83
+35,South - Size Class A,105.83
+36,"Washington-Arlington-Alexandria, DC-VA-MD-WV",104.14
+37,"Miami-Fort Lauderdale-West Palm Beach, FL",105.64
+38,"Atlanta-Sandy Springs-Roswell, GA",107.13
+39,"Tampa-St. Petersburg-Clearwater, FL",104.38
+40,"Baltimore-Columbia-Towson, MD",104.44
+41,"Dallas-Fort Worth-Arlington, TX",107.03
+42,"Houston-The Woodlands-Sugar Land, TX",105.01
+43,West - Size Class A,109.4
+44,"Phoenix-Mesa-Scottsdale, AZ",108.54
+45,"Denver-Aurora-Lakewood, CO",104.84
+46,"Los Angeles-Long Beach-Anaheim, CA",109.85
+47,"San Francisco-Oakland-Hayward, CA",109.87
+48,"Riverside-San Bernardino-Ontario, CA",106.57
+49,Seattle-Tacoma-Bellevue WA,107.39
+50,"San Diego-Carlsbad, CA",105.44
+51,Urban Hawaii,102.88
+52,Urban Alaska,103.26
