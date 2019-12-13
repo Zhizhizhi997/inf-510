@@ -119,7 +119,7 @@ def train(trainfile):
                                       classifier_5,
                                       classifier_6)
 
-    save_classifier = open("../data/naivebayes.pickle","wb")
+    save_classifier = open("./data/naivebayes.pickle","wb")
     pickle.dump(combined_classifier, save_classifier)
     save_classifier.close()
     return word_features
